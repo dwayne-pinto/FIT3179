@@ -5,6 +5,6 @@
 
 #ppm_map {
   display: block;
-  left-margin: auto;
-  right-margin: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
