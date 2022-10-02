@@ -2,3 +2,9 @@
   text-align: center;
   font-family: 'Poppins';
 }
+
+#ppm_map {
+  display: block;
+  left-margin: auto;
+  right-margin: auto;
+}
