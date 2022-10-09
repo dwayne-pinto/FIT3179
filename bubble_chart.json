@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 500,
-  "height": 400,
+  "width": 700,
+  "height": 500,
   "title": "Respiratory health index",
   "data": {
     "url": "https://raw.githubusercontent.com/dwayne-pinto/FIT3179/main/bubble_chart.csv"
