@@ -1,0 +1,90 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 600,
+  "height": 400,
+  "title": "Respiratory health index",
+  "data": {
+    "url": "https://raw.githubusercontent.com/dwayne-pinto/FIT3179/main/bubble_chart.csv"
+  },
+  "transform": [
+    {
+      "filter": "continent_select == null || datum.Continent == continent_select"
+    }
+  ],
+  "params": [
+    {
+      "name": "continent_select",
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "Eastern Mediterranean",
+          "Africa",
+          "Europe",
+          "Americas",
+          "Western Pacific",
+          "South-East Asia"
+        ],
+        "labels": [
+          "All",
+          "Eastern Mediterranean",
+          "Africa",
+          "Europe",
+          "Americas",
+          "Western Pacific",
+          "South-East Asia"
+        ],
+        "name": "Continent: "
+      }
+    }
+  ],
+  "layer": [
+    {
+      "mark": "circle",
+      "encoding": {
+        "x": {
+          "field": "PPM",
+          "type": "quantitative",
+          "title": "Air particulate concentration (PPM)"
+        },
+        "y": {
+          "field": "Disability-Adjusted Life Years",
+          "type": "quantitative",
+          "title": "Disability-Adjusted Life Years per 100,000 Population (DALYs)",
+          "scale": {"type": "log", "domain": [500, 10000]}
+        },
+        "size": {
+          "field": "Deaths",
+          "type": "quantitative",
+          "scale": {
+            "type": "threshold",
+            "domain": [100, 1000, 100000, 1000000],
+            "range": [10, 50, 200, 500, 1200]
+          }
+        },
+        "opacity": {
+          "field": "Deaths",
+          "type": "quantitative",
+          "scale": {
+            "type": "threshold",
+            "domain": [100, 1000, 100000, 1000000],
+            "range": [0.2, 0.4, 0.6, 0.8, 1]
+          },
+          "legend": {"format": ","}
+        },
+        "color": {"value": "#ef0814"},
+        "tooltip": [
+          {"field": "Country"},
+          {"field": "PPM", "format": ".2f"},
+          {"field": "Deaths", "format": ",.0f"},
+          {
+            "field": "Disability-Adjusted Life Years",
+            "title": "DALYs",
+            "format": ",.0f"
+          }
+        ]
+      }
+    }
+  ],
+  "config": {}
+}
