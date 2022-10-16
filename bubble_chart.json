@@ -72,7 +72,9 @@
           },
           "legend": {"format": ","}
         },
-        "color": {"value": "#ef0814"},
+        "color": {
+          "field": "Continent"
+        },
         "tooltip": [
           {"field": "Country"},
           {"field": "PPM", "format": ".2f"},
