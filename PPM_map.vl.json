@@ -34,7 +34,7 @@
             "domain": [10, 280]
           },
           "legend": {
-            "orient": "left",
+            "orient": "top",
             "offset": 0,
             "title": "Parts Per Million"
           },
