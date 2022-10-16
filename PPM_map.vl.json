@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Global Air Particulate Matter",
+  "title": "Global Air Particulate Matter (PM2.5)",
   "width": 900,
   "height": 500,
   "projection": {"type": "equalEarth"},
@@ -29,15 +29,16 @@
           "field": "PPM(Parts Per Million)",
           "type": "quantitative",
           "scale": {
-            "type": "threshold",
-            "domain": [40, 80, 120, 160],
-            "range": ["#fcced0", "#fab5b9", "#f7848a", "#f23943", "#ef0814"]
+            "type": "linear",
+            "scheme": "inferno",
+            "domain": [10, 280]
           },
           "legend": {
-            "orient": "top-left",
+            "orient": "top",
             "offset": 0,
             "title": "Parts Per Million"
-          }
+          },
+          "sort": "descending"
         },
         "tooltip": [
           {"field": "properties.NAME", "type": "nominal", "title": "Country"},
