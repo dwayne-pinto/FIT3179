@@ -7,11 +7,13 @@
     "url": "https://raw.githubusercontent.com/dwayne-pinto/FIT3179/main/bubble_chart.csv"
   },
 "transform": [
-    {"filter": "continent_select == null || datum.Continent == continent_select"}
+    {
+      "filter": "continent_select == null || datum.Continent == continent_select"
+    }
   ],
   "params": [
     {
-      "name": "pts", "select": "point"
+      "name": "country_select", "select": "point"
     },
     {
       "name": "continent_select",
@@ -66,7 +68,7 @@
       "scale": {"scheme":"category10"}
       },
       "opacity": {
-      "condition": {"param": "pts", "value": 1},
+      "condition": {"param": "country_select", "value": 1},
       "value": 0.3
     },
     "tooltip":[
