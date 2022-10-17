@@ -1,0 +1,20 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 850,
+  "height": 400,
+  "title": "Global PM2.5 levels across time",
+  "data": {
+    "url": "https://raw.githubusercontent.com/dwayne-pinto/FIT3179/main/timeseries.csv"
+  },
+  "mark": "line",
+  "encoding": {
+    "x": {"field": "Period", "title": "Year", "type": "ordinal"},
+    "y": {
+      "field": "Particulate Matter",
+      "title": "PM2.5",
+      "type": "quantitative",
+      "scale": {"type": "linear"}
+    }
+  },
+  "config": {}
+}
