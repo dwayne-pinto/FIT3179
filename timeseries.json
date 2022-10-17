@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 900,
+  "width": 1000,
   "height": 400,
   "title": "Global PM2.5 levels across time",
   "data": {
