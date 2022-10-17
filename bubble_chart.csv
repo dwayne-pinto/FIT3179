@@ -1,0 +1,184 @@
+Country_code,Country,Continent,PPM,Dim2,Deaths,Disability-Adjusted Life Years
+AFG,Afghanistan,Eastern Mediterranean,171.59,Total,41284,5715
+AGO,Angola,Africa,115.97,Total,15588,3435.1
+ALB,Albania,Europe,54.59,Total,6072,4222
+ARE,United Arab Emirates,Eastern Mediterranean,132.95,Total,3744.3,1954.4
+ARG,Argentina,Americas,38.08,Total,36268,2103
+ARM,Armenia,Europe,105.4,Total,6328,6013
+ATG,Antigua and Barbuda,Americas,58.1,Total,41.84,1208.2
+AUS,Australia,Western Pacific,20.64,Total,10626,1012.2
+AUT,Austria,Europe,35.64,Total,8578,2121.1
+AZE,Azerbaijan,Europe,62.94,Total,20025,6277
+BDI,Burundi,Africa,110.62,Total,6384,3518
+BEL,Belgium,Europe,34.56,Total,9766,1909.8
+BEN,Benin,Africa,126.35,Total,9141,4686
+BFA,Burkina Faso,Africa,166.66,Total,14220,4741
+BGD,Bangladesh,South-East Asia,185.60999999999999,Total,151373,3503
+BGR,Bulgaria,Europe,57.94,Total,21726,8094
+BHR,Bahrain,Eastern Mediterranean,188.26,Total,810,1961.9
+BHS,Bahamas,Americas,48.879999999999995,Total,78.17,752.8
+BIH,Bosnia and Herzegovina,Europe,83.69,Total,7530,6168
+BLR,Belarus,Europe,48.83,Total,25294,7135
+BLZ,Belize,Americas,61.91,Total,109.67,965.2
+BOL,Bolivia (Plurinational State of),Americas,78.53,Total,11831,2953.1
+BRA,Brazil,Americas,34.23,Total,110048,1675.3
+BRB,Barbados,Americas,74.13,Total,238.37,1952.5
+BRN,Brunei Darussalam,Western Pacific,22.75,Total,119.63,1100.9
+BTN,Bhutan,South-East Asia,112.15,Total,679.3000000000001,2939.8
+BWA,Botswana,Africa,75.39,Total,1415,2749.7
+CAF,Central African Republic,Africa,129.62,Total,4280,5539
+CAN,Canada,Americas,18.03,Total,13806,948.2
+CHE,Switzerland,Europe,28.73,Total,4922,1217.8
+CHL,Chile,Americas,70.39,Total,10335,1481.4
+CHN,China,Western Pacific,136.96,Total,2326444,4898
+CIV,Côte d’Ivoire,Africa,172.82999999999998,Total,20418,5247
+CMR,Cameroon,Africa,196.32,Total,22961,5670
+COD,Democratic Republic of the Congo,Africa,127.89,Total,59300,4308
+COG,Congo,Africa,128.97,Total,2824.1,2777.7
+COL,Colombia,Americas,55.33,Total,26164,1398.4
+COM,Comoros,Africa,46.11,Total,365.15999999999997,2525.6000000000004
+CPV,Cabo Verde,Africa,187.12,Total,450.6,2651.8
+CRI,Costa Rica,Americas,56.16,Total,1881.3000000000002,1081.5
+CUB,Cuba,Americas,58.14,Total,13696,3207.1
+CYP,Cyprus,Europe,43.26,Total,673.4,1467.3
+CZE,Czechia,Europe,45.17,Total,16398,3672
+DEU,Germany,Europe,33.5,Total,74414,2219.7
+DJI,Djibouti,Eastern Mediterranean,115.06,Total,714.6,3480
+DNK,Denmark,Europe,29.08,Total,3741.9,1577.6
+DOM,Dominican Republic,Americas,46.43,Total,5460,1606.6
+DZA,Algeria,Africa,108.88,Total,34590,2444.9
+ECU,Ecuador,Americas,58.61,Total,7500,1316.3
+EGY,Egypt,Eastern Mediterranean,212.01,Total,138804,5634
+ERI,Eritrea,Africa,110.06,Total,3020,3779
+ESP,Spain,Europe,26.68,Total,27820,1347.2
+EST,Estonia,Europe,18.87,Total,921,1628.8
+ETH,Ethiopia,Africa,95.09,Total,49382,2182.1
+FIN,Finland,Europe,17.560000000000002,Total,2369.7,967
+FJI,Fiji,Western Pacific,32.12,Total,481.57,2338.6
+FRA,France,Europe,33.3,Total,37832,1283.7
+FSM,Micronesia (Federated States of),Western Pacific,31.71,Total,74.4,3220.4
+GAB,Gabon,Africa,122.7,Total,1097.3000000000002,2276.6
+GBR,United Kingdom of Great Britain and Northern Ireland,Europe,28.869999999999997,Total,44658,1623.8
+GEO,Georgia,Europe,66.47,Total,10439,7175
+GHA,Ghana,Africa,161.76999999999998,Total,23898,3899
+GIN,Guinea,Africa,160.24,Total,11216,5716
+GMB,Gambia,Africa,172.9,Total,1516.1,3419
+GNB,Guinea-Bissau,Africa,163.21,Total,1383.1,4048
+GNQ,Equatorial Guinea,Africa,133.89,Total,672.1,3448
+GRC,Greece,Europe,40.62,Total,15741,3312
+GRD,Grenada,Americas,67.1,Total,83.88,2269.2
+GTM,Guatemala,Americas,91.52,Total,9462,2020.4
+GUY,Guyana,Americas,71.05,Total,718.7,3159
+HND,Honduras,Americas,76.39,Total,6036,1875.5
+HRV,Croatia,Europe,51.13,Total,7248,4156
+HTI,Haiti,Americas,53.08,Total,7428,2865.5
+HUN,Hungary,Europe,47.6,Total,19270,5106
+IDN,Indonesia,South-East Asia,57.13,Total,239008,3402.5
+IND,India,South-East Asia,207.86,Total,1765275,5112
+IRL,Ireland,Europe,23.78,Total,2231.7,1116.6
+IRN,Iran (Islamic Republic of),Eastern Mediterranean,103.15,Total,67558,2867.3
+IRQ,Iraq,Eastern Mediterranean,165.99,Total,29602,3173
+ISL,Iceland,Europe,17.439999999999998,Total,113.28,749.7
+ISR,Israel,Europe,54.51,Total,4107.6,1169
+ITA,Italy,Europe,40.73,Total,65477,2195.1
+JAM,Jamaica,Americas,44.18,Total,1466.3000000000002,1451.2
+JOR,Jordan,Eastern Mediterranean,103.24000000000001,Total,3858.3,1481.5
+JPN,Japan,Western Pacific,38.61,Total,122714,2024.1999999999998
+KAZ,Kazakhstan,Europe,59.58,Total,24950,4205
+KEN,Kenya,Africa,78.12,Total,12692,1360.3
+KGZ,Kyrgyzstan,Europe,72.69,Total,6858,3727
+KHM,Cambodia,Western Pacific,76.77000000000001,Total,11420,2867.8
+KIR,Kiribati,Western Pacific,33.45,Total,70.72,3064.5
+KOR,Republic of Korea,Western Pacific,78.6,Total,38566,1969
+KWT,Kuwait,Eastern Mediterranean,184.08,Total,1960.2,2228.5
+LAO,Lao People's Democratic Republic,Western Pacific,61.7,Total,5372,3406.8
+LBN,Lebanon,Eastern Mediterranean,91,Total,7429,3522.9
+LBR,Liberia,Africa,156.78,Total,2890.2,3476
+LBY,Libya,Eastern Mediterranean,145.91,Total,4529,2722.8
+LCA,Saint Lucia,Americas,64.93,Total,95.96,1514.6
+LKA,Sri Lanka,South-East Asia,49.64,Total,19037,2942.5
+LSO,Lesotho,Africa,74.61,Total,2877.5,6910
+LTU,Lithuania,Europe,32.32,Total,6354,4872
+LUX,Luxembourg,Europe,28.759999999999998,Total,314.79,1224.4
+LVA,Latvia,Europe,36.74,Total,4217.9,5084
+MAR,Morocco,Eastern Mediterranean,85.14,Total,38606,3664
+MDA,Republic of Moldova,Europe,40.4,Total,6716,4919
+MDG,Madagascar,Africa,52.620000000000005,Total,13947,2667.8
+MDV,Maldives,South-East Asia,33.38,Total,160.6,947.8
+MEX,Mexico,Americas,67.94,Total,73367,1746.3
+MKD,The former Yugoslav Republic of Macedonia,Europe,89.17,Total,4169.8,5772
+MLI,Mali,Africa,190.75,Total,11522,4451
+MLT,Malta,Europe,35.72,Total,481.9,2440.5
+MMR,Myanmar,South-East Asia,99.9,Total,55660,4101
+MNE,Montenegro,Europe,60.650000000000006,Total,1406,5990
+MNG,Mongolia,Western Pacific,137.82999999999998,Total,4675.8,5973
+MOZ,Mozambique,Africa,63.260000000000005,Total,17206,3355.2
+MRT,Mauritania,Africa,223.04,Total,2650.1,3466
+MUS,Mauritius,Africa,31.4,Total,958.6,2500.1
+MWI,Malawi,Africa,76.08,Total,5971,1707.5
+MYS,Malaysia,Western Pacific,46.54,Total,33568,3673.6
+"NAM",Namibia,Africa,72.09,Total,1073.5,1913.4
+NER,Niger,Africa,276.43,Total,18409,5411
+NGA,Nigeria,Africa,181.62,Total,166113,7012
+NIC,Nicaragua,Americas,66.32,Total,3519.7,1562.4
+NLD,Netherlands,Europe,34.63,Total,11466,1651.6
+NOR,Norway,Europe,20.63,Total,1945.6,838.7
+NPL,Nepal,South-East Asia,247.26,Total,29163,3752
+NZL,New Zealand,Western Pacific,19.69,Total,2410.1,1239.2
+OMN,Oman,Eastern Mediterranean,130.74,Total,3620.7,2673.1
+PAK,Pakistan,Eastern Mediterranean,177.55,Total,274010,6239
+PAN,Panama,Americas,44.57,Total,1632.9,1070.3
+PER,Peru,Americas,90.1,Total,17696,1671.6999999999998
+PHL,Philippines,Western Pacific,63.53,Total,126040,4009
+PNG,Papua New Guinea,Western Pacific,34.3,Total,3340.4,1905.3
+POL,Poland,Europe,61.45,Total,71940,4637
+PRK,Democratic People's Republic of Korea,South-East Asia,115.27000000000001,Total,52908,7117
+PRT,Portugal,Europe,23.39,Total,6504,1405.8
+PRY,Paraguay,Americas,35.75,Total,2796.1,1341.3
+QAT,Qatar,Eastern Mediterranean,235.74,Total,856.8,1313.6
+ROU,Romania,Europe,43.83,Total,41751,5464
+RUS,Russian Federation,Europe,29.09,Total,217260,4194
+RWA,Rwanda,Africa,118.95,Total,6509,2611.5
+SAU,Saudi Arabia,Eastern Mediterranean,182.69,Total,34506,4509
+SDN,Sudan,Eastern Mediterranean,130.87,Total,28220,2931.1
+SEN,Senegal,Africa,179.32,Total,9046,2962.6
+SGP,Singapore,Western Pacific,49.83,Total,3966.1,2029.5
+SLB,Solomon Islands,Western Pacific,33.91,Total,386.15999999999997,2555.3
+SLE,Sierra Leone,Africa,163.56,Total,7438,6438
+SLV,El Salvador,Americas,87.39,Total,4400,1853.6999999999998
+SOM,Somalia,Eastern Mediterranean,83,Total,9594,4276
+SRB,Serbia,Europe,73.9,Total,16973,5461
+SSD,South Sudan,Africa,104.09,Total,4962,3108.6
+STP,Sao Tome and Principe,Africa,116.55000000000001,Total,155.92,3304
+SUR,Suriname,Americas,77.28999999999999,Total,410.23,2365.1
+SVK,Slovakia,Europe,52.870000000000005,Total,6313,3164.7
+SVN,Slovenia,Europe,48.379999999999995,Total,2203.5,2327.9
+SWE,Sweden,Europe,16.91,Total,4506,988.7
+SWZ,Eswatini,Africa,59.620000000000005,Total,795.4,3473.4
+SYC,Seychelles,Africa,41.04,Total,90.69,3180.2
+SYR,Syrian Arab Republic,Eastern Mediterranean,119.77,Total,16968,3572
+TCD,Chad,Africa,194.63,Total,14874,7457
+TGO,Togo,Africa,136.65,Total,6360,4567
+THA,Thailand,South-East Asia,90.00999999999999,Total,62162,2841.3
+TJK,Tajikistan,Europe,112.93,Total,13030,6083
+TKM,Turkmenistan,Europe,68.17,Total,6496,4451
+TLS,Timor-Leste,South-East Asia,49.910000000000004,Total,880.2,3241.7
+TON,Tonga,Western Pacific,32.79,Total,37.16,1298.4
+TTO,Trinidad and Tobago,Americas,70.32,Total,709.2,1693.5
+TUN,Tunisia,Eastern Mediterranean,101.09,Total,13760,3601.4
+TUR,Türkiye,Europe,111.82,Total,70628,2598
+TZA,United Republic of Tanzania,Africa,78.81,Total,16006,1647.1
+UGA,Uganda,Africa,130.45,Total,16850,2418.6
+UKR,Ukraine,Europe,41.620000000000005,Total,120406,7440
+URY,Uruguay,Americas,29.54,Total,2229.6,1638
+USA,United States of America,Americas,21.46,Total,187749,1591.7
+UZB,Uzbekistan,Europe,86.13,Total,47284,5194
+VCT,Saint Vincent and the Grenadines,Americas,66.18,Total,71.72,1829.3
+VEN,Venezuela (Bolivarian Republic of),Americas,60.81,Total,17212,1906.8
+VNM,Viet Nam,Western Pacific,64.81,Total,105134,3308.7
+VUT,Vanuatu,Western Pacific,31.9,Total,179.18,2820.1
+WSM,Samoa,Western Pacific,32.4,Total,86.21,1798
+YEM,Yemen,Eastern Mediterranean,123.84,Total,26682,4935
+ZAF,South Africa,Africa,76.81,Total,39654,3450.1
+ZMB,Zambia,Africa,91.66,Total,6382,2222.3
+ZWE,Zimbabwe,Africa,75.19,Total,6806,2217.5
