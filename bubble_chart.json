@@ -6,10 +6,13 @@
   "data": {
     "url": "https://raw.githubusercontent.com/dwayne-pinto/FIT3179/main/bubble_chart.csv"
   },
-  "transform": [
+"transform": [
     {"filter": "continent_select == null || datum.Continent == continent_select"}
   ],
   "params": [
+    {
+      "name": "pts", "select": "point"
+    },
     {
       "name": "continent_select",
       "bind":{
@@ -36,45 +39,45 @@
       }
       }
   ],
-  "layer": [
-    {
-      "mark": "circle",
-      "encoding": {
-        "x": {
-          "field": "PPM",
-          "type": "quantitative",
-          "title": "Air particulate concentration (PPM)"
-        },
-        "y":{
-          "field": "Disability-Adjusted Life Years",
-          "type": "quantitative",
-          "title": "Disability-Adjusted Life Years per 100,000 Population (DALYs)",
-          "scale": {"type": "log", "domain": [500, 10000]}
-        },
-        "size":{
-          "field": "Deaths",
-          "type": "quantitative",
-          "scale":{
-            "type":"threshold",
-            "domain": [100, 1000, 100000, 1000000],
-            "range":[10, 50, 150, 800, 1500]
-            }
-        },
-        "color": {
-          "field": "Continent",
-          "scale": {"scheme":"category10"}
-          },
-        "tooltip":[
-          {"field": "Country"},
-          {"field": "PPM", "format":".2f"},
-          {"field": "Deaths", "format":",.0f"},
-          {
-            "field": "Disability-Adjusted Life Years",
-            "title": "DALYs",
-            "format":",.0f"
-          }
-      ]
+  "mark": "circle",
+  "encoding": {
+    "x": {
+      "field": "PPM",
+      "type": "quantitative",
+      "title": "Air particulate concentration (PPM)"
+    },
+    "y":{
+      "field": "Disability-Adjusted Life Years",
+      "type": "quantitative",
+      "title": "Disability-Adjusted Life Years per 100,000 Population (DALYs)",
+      "scale": {"type": "log", "domain": [500, 10000]}
+    },
+    "size":{
+      "field": "Deaths",
+      "type": "quantitative",
+      "scale":{
+        "type":"threshold",
+        "domain": [100, 1000, 100000, 1000000],
+        "range":[10, 50, 150, 800, 1500]
+        }
+    },
+    "color": {
+      "field": "Continent",
+      "scale": {"scheme":"category10"}
+      },
+      "opacity": {
+      "condition": {"param": "pts", "value": 1},
+      "value": 0.3
+    },
+    "tooltip":[
+      {"field": "Country"},
+      {"field": "PPM", "format":".2f"},
+      {"field": "Deaths", "format":",.0f"},
+      {
+        "field": "Disability-Adjusted Life Years",
+        "title": "DALYs",
+        "format":",.0f"
       }
-    }
   ]
+  }
 }
