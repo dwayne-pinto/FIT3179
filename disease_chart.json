@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 850,
+  "width": 400,
   "height": 400,
   "title": "Global Pollution Induced Disease Deaths",
   "data": {
