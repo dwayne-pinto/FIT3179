@@ -1,0 +1,20 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 850,
+  "height": 400,
+  "title": "Global Pollution Induced Disease Deaths",
+  "data": {
+    "url": "https://raw.githubusercontent.com/dwayne-pinto/FIT3179/main/diseases_chart.csv"
+  },
+  "mark": "bar",
+  "encoding": {
+    "x": {"field": "Deaths", "type": "quantitative"},
+    "y": {"field": "Diseases"},
+    "color": {"field": "Diseases", "legend": null, "scale": {"scheme": "set2"}},
+    "tooltip": [
+      {"field": "Diseases", "title": "Disease"},
+      {"field": "Deaths", "format": ",.0f"}
+    ]
+  },
+  "config": {}
+}
