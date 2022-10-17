@@ -1,0 +1,916 @@
+Country_code,Country,Continent,PPM,Dim2,Deaths,Disability-Adjusted Life Years
+AFG,Afghanistan,Eastern Mediterranean,171.59,Chronic obstructive pulmonary disease,2348.3,5715
+AFG,Afghanistan,Eastern Mediterranean,171.59,Ischaemic heart disease,22583,5715
+AFG,Afghanistan,Eastern Mediterranean,171.59,Lower respiratory infections,7773,5715
+AFG,Afghanistan,Eastern Mediterranean,171.59,Stroke,8103,5715
+AFG,Afghanistan,Eastern Mediterranean,171.59,"Trachea, bronchus, lung cancers",476.15,5715
+AGO,Angola,Africa,115.97,Chronic obstructive pulmonary disease,708.6,3435.1
+AGO,Angola,Africa,115.97,Ischaemic heart disease,4169.4,3435.1
+AGO,Angola,Africa,115.97,Lower respiratory infections,7808,3435.1
+AGO,Angola,Africa,115.97,Stroke,2816.1,3435.1
+AGO,Angola,Africa,115.97,"Trachea, bronchus, lung cancers",85.95,3435.1
+ALB,Albania,Europe,54.59,Chronic obstructive pulmonary disease,208.22,4222
+ALB,Albania,Europe,54.59,Ischaemic heart disease,3443.6,4222
+ALB,Albania,Europe,54.59,Lower respiratory infections,208.02,4222
+ALB,Albania,Europe,54.59,Stroke,2057.7,4222
+ALB,Albania,Europe,54.59,"Trachea, bronchus, lung cancers",154.95,4222
+ARE,United Arab Emirates,Eastern Mediterranean,132.95,Chronic obstructive pulmonary disease,383.84,1954.4
+ARE,United Arab Emirates,Eastern Mediterranean,132.95,Ischaemic heart disease,2142.5,1954.4
+ARE,United Arab Emirates,Eastern Mediterranean,132.95,Lower respiratory infections,418.62,1954.4
+ARE,United Arab Emirates,Eastern Mediterranean,132.95,Stroke,736.2,1954.4
+ARE,United Arab Emirates,Eastern Mediterranean,132.95,"Trachea, bronchus, lung cancers",62.32,1954.4
+ARG,Argentina,Americas,38.08,Chronic obstructive pulmonary disease,4226,2103
+ARG,Argentina,Americas,38.08,Ischaemic heart disease,16516,2103
+ARG,Argentina,Americas,38.08,Lower respiratory infections,10177,2103
+ARG,Argentina,Americas,38.08,Stroke,4284,2103
+ARG,Argentina,Americas,38.08,"Trachea, bronchus, lung cancers",1063.5,2103
+ARM,Armenia,Europe,105.4,Chronic obstructive pulmonary disease,316.76,6013
+ARM,Armenia,Europe,105.4,Ischaemic heart disease,4348,6013
+ARM,Armenia,Europe,105.4,Lower respiratory infections,647.4,6013
+ARM,Armenia,Europe,105.4,Stroke,718,6013
+ARM,Armenia,Europe,105.4,"Trachea, bronchus, lung cancers",296.77,6013
+ATG,Antigua and Barbuda,Americas,58.1,Chronic obstructive pulmonary disease,2.2,1208.2
+ATG,Antigua and Barbuda,Americas,58.1,Ischaemic heart disease,24.72,1208.2
+ATG,Antigua and Barbuda,Americas,58.1,Lower respiratory infections,3.94,1208.2
+ATG,Antigua and Barbuda,Americas,58.1,Stroke,10.55,1208.2
+ATG,Antigua and Barbuda,Americas,58.1,"Trachea, bronchus, lung cancers",0.44,1208.2
+AUS,Australia,Western Pacific,20.64,Chronic obstructive pulmonary disease,1183.9,1012.2
+AUS,Australia,Western Pacific,20.64,Ischaemic heart disease,6412,1012.2
+AUS,Australia,Western Pacific,20.64,Lower respiratory infections,817.7,1012.2
+AUS,Australia,Western Pacific,20.64,Stroke,1576.1,1012.2
+AUS,Australia,Western Pacific,20.64,"Trachea, bronchus, lung cancers",636.5,1012.2
+AUT,Austria,Europe,35.64,Chronic obstructive pulmonary disease,742,2121.1
+AUT,Austria,Europe,35.64,Ischaemic heart disease,6038,2121.1
+AUT,Austria,Europe,35.64,Lower respiratory infections,382.6,2121.1
+AUT,Austria,Europe,35.64,Stroke,980.8,2121.1
+AUT,Austria,Europe,35.64,"Trachea, bronchus, lung cancers",434.74,2121.1
+AZE,Azerbaijan,Europe,62.94,Chronic obstructive pulmonary disease,565.6,6277
+AZE,Azerbaijan,Europe,62.94,Ischaemic heart disease,14700,6277
+AZE,Azerbaijan,Europe,62.94,Lower respiratory infections,752,6277
+AZE,Azerbaijan,Europe,62.94,Stroke,3715.3,6277
+AZE,Azerbaijan,Europe,62.94,"Trachea, bronchus, lung cancers",292.83,6277
+BDI,Burundi,Africa,110.62,Chronic obstructive pulmonary disease,427.31,3518
+BDI,Burundi,Africa,110.62,Ischaemic heart disease,1658.4,3518
+BDI,Burundi,Africa,110.62,Lower respiratory infections,3024.4,3518
+BDI,Burundi,Africa,110.62,Stroke,1255.4,3518
+BDI,Burundi,Africa,110.62,"Trachea, bronchus, lung cancers",17.98,3518
+BEL,Belgium,Europe,34.56,Chronic obstructive pulmonary disease,1145,1909.8
+BEL,Belgium,Europe,34.56,Ischaemic heart disease,5198,1909.8
+BEL,Belgium,Europe,34.56,Lower respiratory infections,1364,1909.8
+BEL,Belgium,Europe,34.56,Stroke,1378.2,1909.8
+BEL,Belgium,Europe,34.56,"Trachea, bronchus, lung cancers",681.7,1909.8
+BEN,Benin,Africa,126.35,Chronic obstructive pulmonary disease,430.62,4686
+BEN,Benin,Africa,126.35,Ischaemic heart disease,2551.6,4686
+BEN,Benin,Africa,126.35,Lower respiratory infections,4306.4,4686
+BEN,Benin,Africa,126.35,Stroke,1834.4,4686
+BEN,Benin,Africa,126.35,"Trachea, bronchus, lung cancers",17.89,4686
+BFA,Burkina Faso,Africa,166.66,Chronic obstructive pulmonary disease,452.81,4741
+BFA,Burkina Faso,Africa,166.66,Ischaemic heart disease,4013.9,4741
+BFA,Burkina Faso,Africa,166.66,Lower respiratory infections,7532,4741
+BFA,Burkina Faso,Africa,166.66,Stroke,2143.6,4741
+BFA,Burkina Faso,Africa,166.66,"Trachea, bronchus, lung cancers",76.89,4741
+BGD,Bangladesh,South-East Asia,185.60999999999999,Chronic obstructive pulmonary disease,20554,3503
+BGD,Bangladesh,South-East Asia,185.60999999999999,Ischaemic heart disease,57128,3503
+BGD,Bangladesh,South-East Asia,185.60999999999999,Lower respiratory infections,17816,3503
+BGD,Bangladesh,South-East Asia,185.60999999999999,Stroke,51472,3503
+BGD,Bangladesh,South-East Asia,185.60999999999999,"Trachea, bronchus, lung cancers",4402.3,3503
+BGR,Bulgaria,Europe,57.94,Chronic obstructive pulmonary disease,988.2,8094
+BGR,Bulgaria,Europe,57.94,Ischaemic heart disease,14570,8094
+BGR,Bulgaria,Europe,57.94,Lower respiratory infections,479.03,8094
+BGR,Bulgaria,Europe,57.94,Stroke,5162,8094
+BGR,Bulgaria,Europe,57.94,"Trachea, bronchus, lung cancers",526.35,8094
+BHR,Bahrain,Eastern Mediterranean,188.26,Chronic obstructive pulmonary disease,62.39,1961.9
+BHR,Bahrain,Eastern Mediterranean,188.26,Ischaemic heart disease,529.2,1961.9
+BHR,Bahrain,Eastern Mediterranean,188.26,Lower respiratory infections,69.5,1961.9
+BHR,Bahrain,Eastern Mediterranean,188.26,Stroke,116.08,1961.9
+BHR,Bahrain,Eastern Mediterranean,188.26,"Trachea, bronchus, lung cancers",32.72,1961.9
+BHS,Bahamas,Americas,48.879999999999995,Chronic obstructive pulmonary disease,1.8,752.8
+BHS,Bahamas,Americas,48.879999999999995,Ischaemic heart disease,53.86,752.8
+BHS,Bahamas,Americas,48.879999999999995,Lower respiratory infections,6.42,752.8
+BHS,Bahamas,Americas,48.879999999999995,Stroke,15.46,752.8
+BHS,Bahamas,Americas,48.879999999999995,"Trachea, bronchus, lung cancers",0.622,752.8
+BIH,Bosnia and Herzegovina,Europe,83.69,Chronic obstructive pulmonary disease,374.99,6168
+BIH,Bosnia and Herzegovina,Europe,83.69,Ischaemic heart disease,4137.4,6168
+BIH,Bosnia and Herzegovina,Europe,83.69,Lower respiratory infections,199.54,6168
+BIH,Bosnia and Herzegovina,Europe,83.69,Stroke,2336.1,6168
+BIH,Bosnia and Herzegovina,Europe,83.69,"Trachea, bronchus, lung cancers",481.6,6168
+BLR,Belarus,Europe,48.83,Chronic obstructive pulmonary disease,502.14,7135
+BLR,Belarus,Europe,48.83,Ischaemic heart disease,20331,7135
+BLR,Belarus,Europe,48.83,Lower respiratory infections,341.38,7135
+BLR,Belarus,Europe,48.83,Stroke,3700.1,7135
+BLR,Belarus,Europe,48.83,"Trachea, bronchus, lung cancers",420.53,7135
+BLZ,Belize,Americas,61.91,Chronic obstructive pulmonary disease,7.09,965.2
+BLZ,Belize,Americas,61.91,Ischaemic heart disease,58.98,965.2
+BLZ,Belize,Americas,61.91,Lower respiratory infections,20.22,965.2
+BLZ,Belize,Americas,61.91,Stroke,20.71,965.2
+BLZ,Belize,Americas,61.91,"Trachea, bronchus, lung cancers",2.67,965.2
+BOL,Bolivia (Plurinational State of),Americas,78.53,Chronic obstructive pulmonary disease,1168,2953.1
+BOL,Bolivia (Plurinational State of),Americas,78.53,Ischaemic heart disease,4896,2953.1
+BOL,Bolivia (Plurinational State of),Americas,78.53,Lower respiratory infections,3496,2953.1
+BOL,Bolivia (Plurinational State of),Americas,78.53,Stroke,2069.9,2953.1
+BOL,Bolivia (Plurinational State of),Americas,78.53,"Trachea, bronchus, lung cancers",200.98,2953.1
+BRA,Brazil,Americas,34.23,Chronic obstructive pulmonary disease,10008,1675.3
+BRA,Brazil,Americas,34.23,Ischaemic heart disease,53846,1675.3
+BRA,Brazil,Americas,34.23,Lower respiratory infections,21498,1675.3
+BRA,Brazil,Americas,34.23,Stroke,21684,1675.3
+BRA,Brazil,Americas,34.23,"Trachea, bronchus, lung cancers",3010.5,1675.3
+BRB,Barbados,Americas,74.13,Chronic obstructive pulmonary disease,11.43,1952.5
+BRB,Barbados,Americas,74.13,Ischaemic heart disease,113.54,1952.5
+BRB,Barbados,Americas,74.13,Lower respiratory infections,45.72,1952.5
+BRB,Barbados,Americas,74.13,Stroke,64.06,1952.5
+BRB,Barbados,Americas,74.13,"Trachea, bronchus, lung cancers",3.5700000000000003,1952.5
+BRN,Brunei Darussalam,Western Pacific,22.75,Chronic obstructive pulmonary disease,6.18,1100.9
+BRN,Brunei Darussalam,Western Pacific,22.75,Ischaemic heart disease,73.16,1100.9
+BRN,Brunei Darussalam,Western Pacific,22.75,Lower respiratory infections,8.77,1100.9
+BRN,Brunei Darussalam,Western Pacific,22.75,Stroke,28.17,1100.9
+BRN,Brunei Darussalam,Western Pacific,22.75,"Trachea, bronchus, lung cancers",3.35,1100.9
+BTN,Bhutan,South-East Asia,112.15,Chronic obstructive pulmonary disease,169.6,2939.8
+BTN,Bhutan,South-East Asia,112.15,Ischaemic heart disease,316.56,2939.8
+BTN,Bhutan,South-East Asia,112.15,Lower respiratory infections,76.1,2939.8
+BTN,Bhutan,South-East Asia,112.15,Stroke,106.86,2939.8
+BTN,Bhutan,South-East Asia,112.15,"Trachea, bronchus, lung cancers",10.2,2939.8
+BWA,Botswana,Africa,75.39,Chronic obstructive pulmonary disease,93.78,2749.7
+BWA,Botswana,Africa,75.39,Ischaemic heart disease,577.6,2749.7
+BWA,Botswana,Africa,75.39,Lower respiratory infections,422.40999999999997,2749.7
+BWA,Botswana,Africa,75.39,Stroke,316.17,2749.7
+BWA,Botswana,Africa,75.39,"Trachea, bronchus, lung cancers",5.24,2749.7
+CAF,Central African Republic,Africa,129.62,Chronic obstructive pulmonary disease,280.8,5539
+CAF,Central African Republic,Africa,129.62,Ischaemic heart disease,1202.2,5539
+CAF,Central African Republic,Africa,129.62,Lower respiratory infections,1908.3,5539
+CAF,Central African Republic,Africa,129.62,Stroke,877.8,5539
+CAF,Central African Republic,Africa,129.62,"Trachea, bronchus, lung cancers",10.13,5539
+CAN,Canada,Americas,18.03,Chronic obstructive pulmonary disease,1283.9,948.2
+CAN,Canada,Americas,18.03,Ischaemic heart disease,9326,948.2
+CAN,Canada,Americas,18.03,Lower respiratory infections,842.4,948.2
+CAN,Canada,Americas,18.03,Stroke,1521.8,948.2
+CAN,Canada,Americas,18.03,"Trachea, bronchus, lung cancers",831.1,948.2
+CHE,Switzerland,Europe,28.73,Chronic obstructive pulmonary disease,415.37,1217.8
+CHE,Switzerland,Europe,28.73,Ischaemic heart disease,3264.3,1217.8
+CHE,Switzerland,Europe,28.73,Lower respiratory infections,367.44,1217.8
+CHE,Switzerland,Europe,28.73,Stroke,613.7,1217.8
+CHE,Switzerland,Europe,28.73,"Trachea, bronchus, lung cancers",260.63,1217.8
+CHL,Chile,Americas,70.39,Chronic obstructive pulmonary disease,1123.6,1481.4
+CHL,Chile,Americas,70.39,Ischaemic heart disease,4479.7,1481.4
+CHL,Chile,Americas,70.39,Lower respiratory infections,1522.6,1481.4
+CHL,Chile,Americas,70.39,Stroke,2562.3,1481.4
+CHL,Chile,Americas,70.39,"Trachea, bronchus, lung cancers",646.2,1481.4
+CHN,China,Western Pacific,136.96,Chronic obstructive pulmonary disease,391680,4898
+CHN,China,Western Pacific,136.96,Ischaemic heart disease,885046,4898
+CHN,China,Western Pacific,136.96,Lower respiratory infections,102931,4898
+CHN,China,Western Pacific,136.96,Stroke,722494,4898
+CHN,China,Western Pacific,136.96,"Trachea, bronchus, lung cancers",224294,4898
+CIV,Côte d’Ivoire,Africa,172.82999999999998,Chronic obstructive pulmonary disease,926,5247
+CIV,Côte d’Ivoire,Africa,172.82999999999998,Ischaemic heart disease,5552,5247
+CIV,Côte d’Ivoire,Africa,172.82999999999998,Lower respiratory infections,10490,5247
+CIV,Côte d’Ivoire,Africa,172.82999999999998,Stroke,3360.6,5247
+CIV,Côte d’Ivoire,Africa,172.82999999999998,"Trachea, bronchus, lung cancers",87.94,5247
+CMR,Cameroon,Africa,196.32,Chronic obstructive pulmonary disease,1124.4,5670
+CMR,Cameroon,Africa,196.32,Ischaemic heart disease,5861,5670
+CMR,Cameroon,Africa,196.32,Lower respiratory infections,11446,5670
+CMR,Cameroon,Africa,196.32,Stroke,4405,5670
+CMR,Cameroon,Africa,196.32,"Trachea, bronchus, lung cancers",124.69,5670
+COD,Democratic Republic of the Congo,Africa,127.89,Chronic obstructive pulmonary disease,4301.7,4308
+COD,Democratic Republic of the Congo,Africa,127.89,Ischaemic heart disease,14958,4308
+COD,Democratic Republic of the Congo,Africa,127.89,Lower respiratory infections,29418,4308
+COD,Democratic Republic of the Congo,Africa,127.89,Stroke,10342,4308
+COD,Democratic Republic of the Congo,Africa,127.89,"Trachea, bronchus, lung cancers",280.61,4308
+COG,Congo,Africa,128.97,Chronic obstructive pulmonary disease,164.5,2777.7
+COG,Congo,Africa,128.97,Ischaemic heart disease,1052.9,2777.7
+COG,Congo,Africa,128.97,Lower respiratory infections,971,2777.7
+COG,Congo,Africa,128.97,Stroke,623.8,2777.7
+COG,Congo,Africa,128.97,"Trachea, bronchus, lung cancers",12.11,2777.7
+COL,Colombia,Americas,55.33,Chronic obstructive pulmonary disease,3324.5,1398.4
+COL,Colombia,Americas,55.33,Ischaemic heart disease,15656,1398.4
+COL,Colombia,Americas,55.33,Lower respiratory infections,3054.3,1398.4
+COL,Colombia,Americas,55.33,Stroke,3458,1398.4
+COL,Colombia,Americas,55.33,"Trachea, bronchus, lung cancers",669.6,1398.4
+COM,Comoros,Africa,46.11,Chronic obstructive pulmonary disease,17.36,2525.6000000000004
+COM,Comoros,Africa,46.11,Ischaemic heart disease,127.14999999999999,2525.6000000000004
+COM,Comoros,Africa,46.11,Lower respiratory infections,146.1,2525.6000000000004
+COM,Comoros,Africa,46.11,Stroke,74.38,2525.6000000000004
+COM,Comoros,Africa,46.11,"Trachea, bronchus, lung cancers",0.134,2525.6000000000004
+CPV,Cabo Verde,Africa,187.12,Chronic obstructive pulmonary disease,20.39,2651.8
+CPV,Cabo Verde,Africa,187.12,Ischaemic heart disease,215.8,2651.8
+CPV,Cabo Verde,Africa,187.12,Lower respiratory infections,116.26,2651.8
+CPV,Cabo Verde,Africa,187.12,Stroke,86.58,2651.8
+CPV,Cabo Verde,Africa,187.12,"Trachea, bronchus, lung cancers",11.54,2651.8
+CRI,Costa Rica,Americas,56.16,Chronic obstructive pulmonary disease,230.36,1081.5
+CRI,Costa Rica,Americas,56.16,Ischaemic heart disease,994.5,1081.5
+CRI,Costa Rica,Americas,56.16,Lower respiratory infections,252.98,1081.5
+CRI,Costa Rica,Americas,56.16,Stroke,357.03,1081.5
+CRI,Costa Rica,Americas,56.16,"Trachea, bronchus, lung cancers",46.38,1081.5
+CUB,Cuba,Americas,58.14,Chronic obstructive pulmonary disease,1060.9,3207.1
+CUB,Cuba,Americas,58.14,Ischaemic heart disease,7564,3207.1
+CUB,Cuba,Americas,58.14,Lower respiratory infections,2278.1,3207.1
+CUB,Cuba,Americas,58.14,Stroke,2088.3,3207.1
+CUB,Cuba,Americas,58.14,"Trachea, bronchus, lung cancers",704.2,3207.1
+CYP,Cyprus,Europe,43.26,Chronic obstructive pulmonary disease,77.72,1467.3
+CYP,Cyprus,Europe,43.26,Ischaemic heart disease,421.63,1467.3
+CYP,Cyprus,Europe,43.26,Lower respiratory infections,29.48,1467.3
+CYP,Cyprus,Europe,43.26,Stroke,101.46,1467.3
+CYP,Cyprus,Europe,43.26,"Trachea, bronchus, lung cancers",42.98,1467.3
+CZE,Czechia,Europe,45.17,Chronic obstructive pulmonary disease,901.7,3672
+CZE,Czechia,Europe,45.17,Ischaemic heart disease,11816,3672
+CZE,Czechia,Europe,45.17,Lower respiratory infections,1224.6,3672
+CZE,Czechia,Europe,45.17,Stroke,1735.1,3672
+CZE,Czechia,Europe,45.17,"Trachea, bronchus, lung cancers",719.4,3672
+DEU,Germany,Europe,33.5,Chronic obstructive pulmonary disease,7297,2219.7
+DEU,Germany,Europe,33.5,Ischaemic heart disease,48992,2219.7
+DEU,Germany,Europe,33.5,Lower respiratory infections,4748.2,2219.7
+DEU,Germany,Europe,33.5,Stroke,8964,2219.7
+DEU,Germany,Europe,33.5,"Trachea, bronchus, lung cancers",4413.7,2219.7
+DJI,Djibouti,Eastern Mediterranean,115.06,Chronic obstructive pulmonary disease,31.56,3480
+DJI,Djibouti,Eastern Mediterranean,115.06,Ischaemic heart disease,278.05,3480
+DJI,Djibouti,Eastern Mediterranean,115.06,Lower respiratory infections,231.76000000000002,3480
+DJI,Djibouti,Eastern Mediterranean,115.06,Stroke,169.78,3480
+DJI,Djibouti,Eastern Mediterranean,115.06,"Trachea, bronchus, lung cancers",3.5300000000000002,3480
+DNK,Denmark,Europe,29.08,Chronic obstructive pulmonary disease,676.1,1577.6
+DNK,Denmark,Europe,29.08,Ischaemic heart disease,1690.4,1577.6
+DNK,Denmark,Europe,29.08,Lower respiratory infections,460,1577.6
+DNK,Denmark,Europe,29.08,Stroke,608.8,1577.6
+DNK,Denmark,Europe,29.08,"Trachea, bronchus, lung cancers",306.38,1577.6
+DOM,Dominican Republic,Americas,46.43,Chronic obstructive pulmonary disease,152.9,1606.6
+DOM,Dominican Republic,Americas,46.43,Ischaemic heart disease,3916.3,1606.6
+DOM,Dominican Republic,Americas,46.43,Lower respiratory infections,309.44,1606.6
+DOM,Dominican Republic,Americas,46.43,Stroke,1013.3,1606.6
+DOM,Dominican Republic,Americas,46.43,"Trachea, bronchus, lung cancers",68.26,1606.6
+DZA,Algeria,Africa,108.88,Chronic obstructive pulmonary disease,1348.2,2444.9
+DZA,Algeria,Africa,108.88,Ischaemic heart disease,23308,2444.9
+DZA,Algeria,Africa,108.88,Lower respiratory infections,2763.7,2444.9
+DZA,Algeria,Africa,108.88,Stroke,6376,2444.9
+DZA,Algeria,Africa,108.88,"Trachea, bronchus, lung cancers",794.59,2444.9
+ECU,Ecuador,Americas,58.61,Chronic obstructive pulmonary disease,612.4,1316.3
+ECU,Ecuador,Americas,58.61,Ischaemic heart disease,3816.3,1316.3
+ECU,Ecuador,Americas,58.61,Lower respiratory infections,1656.5,1316.3
+ECU,Ecuador,Americas,58.61,Stroke,1253.6,1316.3
+ECU,Ecuador,Americas,58.61,"Trachea, bronchus, lung cancers",162.42,1316.3
+EGY,Egypt,Eastern Mediterranean,212.01,Chronic obstructive pulmonary disease,6951,5634
+EGY,Egypt,Eastern Mediterranean,212.01,Ischaemic heart disease,97886,5634
+EGY,Egypt,Eastern Mediterranean,212.01,Lower respiratory infections,13864,5634
+EGY,Egypt,Eastern Mediterranean,212.01,Stroke,17594,5634
+EGY,Egypt,Eastern Mediterranean,212.01,"Trachea, bronchus, lung cancers",2508.4,5634
+ERI,Eritrea,Africa,110.06,Chronic obstructive pulmonary disease,187.62,3779
+ERI,Eritrea,Africa,110.06,Ischaemic heart disease,903,3779
+ERI,Eritrea,Africa,110.06,Lower respiratory infections,1235.4,3779
+ERI,Eritrea,Africa,110.06,Stroke,681.7,3779
+ERI,Eritrea,Africa,110.06,"Trachea, bronchus, lung cancers",12.2,3779
+ESP,Spain,Europe,26.68,Chronic obstructive pulmonary disease,2799.8,1347.2
+ESP,Spain,Europe,26.68,Ischaemic heart disease,15948,1347.2
+ESP,Spain,Europe,26.68,Lower respiratory infections,2691.6,1347.2
+ESP,Spain,Europe,26.68,Stroke,4652.2,1347.2
+ESP,Spain,Europe,26.68,"Trachea, bronchus, lung cancers",1728.8999999999999,1347.2
+EST,Estonia,Europe,18.87,Chronic obstructive pulmonary disease,20.63,1628.8
+EST,Estonia,Europe,18.87,Ischaemic heart disease,714,1628.8
+EST,Estonia,Europe,18.87,Lower respiratory infections,39.38,1628.8
+EST,Estonia,Europe,18.87,Stroke,121.36,1628.8
+EST,Estonia,Europe,18.87,"Trachea, bronchus, lung cancers",25.64,1628.8
+ETH,Ethiopia,Africa,95.09,Chronic obstructive pulmonary disease,3340.8,2182.1
+ETH,Ethiopia,Africa,95.09,Ischaemic heart disease,15348,2182.1
+ETH,Ethiopia,Africa,95.09,Lower respiratory infections,19862,2182.1
+ETH,Ethiopia,Africa,95.09,Stroke,10402,2182.1
+ETH,Ethiopia,Africa,95.09,"Trachea, bronchus, lung cancers",427.4,2182.1
+FIN,Finland,Europe,17.560000000000002,Chronic obstructive pulmonary disease,83.94,967
+FIN,Finland,Europe,17.560000000000002,Ischaemic heart disease,1853,967
+FIN,Finland,Europe,17.560000000000002,Lower respiratory infections,34.74,967
+FIN,Finland,Europe,17.560000000000002,Stroke,337.77,967
+FIN,Finland,Europe,17.560000000000002,"Trachea, bronchus, lung cancers",60.03,967
+FJI,Fiji,Western Pacific,32.12,Chronic obstructive pulmonary disease,14.77,2338.6
+FJI,Fiji,Western Pacific,32.12,Ischaemic heart disease,365.43,2338.6
+FJI,Fiji,Western Pacific,32.12,Lower respiratory infections,29.89,2338.6
+FJI,Fiji,Western Pacific,32.12,Stroke,68.96,2338.6
+FJI,Fiji,Western Pacific,32.12,"Trachea, bronchus, lung cancers",2.42,2338.6
+FRA,France,Europe,33.3,Chronic obstructive pulmonary disease,3027.6,1283.7
+FRA,France,Europe,33.3,Ischaemic heart disease,20740,1283.7
+FRA,France,Europe,33.3,Lower respiratory infections,4404,1283.7
+FRA,France,Europe,33.3,Stroke,6401,1283.7
+FRA,France,Europe,33.3,"Trachea, bronchus, lung cancers",3261.7,1283.7
+FSM,Micronesia (Federated States of),Western Pacific,31.71,Chronic obstructive pulmonary disease,4.4,3220.4
+FSM,Micronesia (Federated States of),Western Pacific,31.71,Ischaemic heart disease,47.4,3220.4
+FSM,Micronesia (Federated States of),Western Pacific,31.71,Lower respiratory infections,7.07,3220.4
+FSM,Micronesia (Federated States of),Western Pacific,31.71,Stroke,14.26,3220.4
+FSM,Micronesia (Federated States of),Western Pacific,31.71,"Trachea, bronchus, lung cancers",1.26,3220.4
+GAB,Gabon,Africa,122.7,Chronic obstructive pulmonary disease,62.45,2276.6
+GAB,Gabon,Africa,122.7,Ischaemic heart disease,423.87,2276.6
+GAB,Gabon,Africa,122.7,Lower respiratory infections,353.85,2276.6
+GAB,Gabon,Africa,122.7,Stroke,238.79000000000002,2276.6
+GAB,Gabon,Africa,122.7,"Trachea, bronchus, lung cancers",18.38,2276.6
+GBR,United Kingdom of Great Britain and Northern Ireland,Europe,28.869999999999997,Chronic obstructive pulmonary disease,4988,1623.8
+GBR,United Kingdom of Great Britain and Northern Ireland,Europe,28.869999999999997,Ischaemic heart disease,22468,1623.8
+GBR,United Kingdom of Great Britain and Northern Ireland,Europe,28.869999999999997,Lower respiratory infections,8162,1623.8
+GBR,United Kingdom of Great Britain and Northern Ireland,Europe,28.869999999999997,Stroke,6164,1623.8
+GBR,United Kingdom of Great Britain and Northern Ireland,Europe,28.869999999999997,"Trachea, bronchus, lung cancers",2876.5,1623.8
+GEO,Georgia,Europe,66.47,Chronic obstructive pulmonary disease,304.99,7175
+GEO,Georgia,Europe,66.47,Ischaemic heart disease,6574,7175
+GEO,Georgia,Europe,66.47,Lower respiratory infections,324.85,7175
+GEO,Georgia,Europe,66.47,Stroke,3034.2,7175
+GEO,Georgia,Europe,66.47,"Trachea, bronchus, lung cancers",201.81,7175
+GHA,Ghana,Africa,161.76999999999998,Chronic obstructive pulmonary disease,1378.9,3899
+GHA,Ghana,Africa,161.76999999999998,Ischaemic heart disease,7375,3899
+GHA,Ghana,Africa,161.76999999999998,Lower respiratory infections,9324,3899
+GHA,Ghana,Africa,161.76999999999998,Stroke,5735,3899
+GHA,Ghana,Africa,161.76999999999998,"Trachea, bronchus, lung cancers",84.34,3899
+GIN,Guinea,Africa,160.24,Chronic obstructive pulmonary disease,529.2,5716
+GIN,Guinea,Africa,160.24,Ischaemic heart disease,2778,5716
+GIN,Guinea,Africa,160.24,Lower respiratory infections,5956,5716
+GIN,Guinea,Africa,160.24,Stroke,1913.4,5716
+GIN,Guinea,Africa,160.24,"Trachea, bronchus, lung cancers",39.16,5716
+GMB,Gambia,Africa,172.9,Chronic obstructive pulmonary disease,82.51,3419
+GMB,Gambia,Africa,172.9,Ischaemic heart disease,503.8,3419
+GMB,Gambia,Africa,172.9,Lower respiratory infections,641.7,3419
+GMB,Gambia,Africa,172.9,Stroke,277.39,3419
+GMB,Gambia,Africa,172.9,"Trachea, bronchus, lung cancers",10.61,3419
+GNB,Guinea-Bissau,Africa,163.21,Chronic obstructive pulmonary disease,70.74,4048
+GNB,Guinea-Bissau,Africa,163.21,Ischaemic heart disease,437.5,4048
+GNB,Guinea-Bissau,Africa,163.21,Lower respiratory infections,600.6,4048
+GNB,Guinea-Bissau,Africa,163.21,Stroke,268.97,4048
+GNB,Guinea-Bissau,Africa,163.21,"Trachea, bronchus, lung cancers",5.26,4048
+GNQ,Equatorial Guinea,Africa,133.89,Chronic obstructive pulmonary disease,34.7,3448
+GNQ,Equatorial Guinea,Africa,133.89,Ischaemic heart disease,173.76999999999998,3448
+GNQ,Equatorial Guinea,Africa,133.89,Lower respiratory infections,342.64,3448
+GNQ,Equatorial Guinea,Africa,133.89,Stroke,115.32,3448
+GNQ,Equatorial Guinea,Africa,133.89,"Trachea, bronchus, lung cancers",5.63,3448
+GRC,Greece,Europe,40.62,Chronic obstructive pulmonary disease,1211,3312
+GRC,Greece,Europe,40.62,Ischaemic heart disease,7942,3312
+GRC,Greece,Europe,40.62,Lower respiratory infections,2506.2,3312
+GRC,Greece,Europe,40.62,Stroke,3088.1,3312
+GRC,Greece,Europe,40.62,"Trachea, bronchus, lung cancers",993,3312
+GRD,Grenada,Americas,67.1,Chronic obstructive pulmonary disease,2.52,2269.2
+GRD,Grenada,Americas,67.1,Ischaemic heart disease,50.43,2269.2
+GRD,Grenada,Americas,67.1,Lower respiratory infections,11.65,2269.2
+GRD,Grenada,Americas,67.1,Stroke,17.98,2269.2
+GRD,Grenada,Americas,67.1,"Trachea, bronchus, lung cancers",1.3,2269.2
+GTM,Guatemala,Americas,91.52,Chronic obstructive pulmonary disease,524.8,2020.4
+GTM,Guatemala,Americas,91.52,Ischaemic heart disease,4100,2020.4
+GTM,Guatemala,Americas,91.52,Lower respiratory infections,3517.7,2020.4
+GTM,Guatemala,Americas,91.52,Stroke,1247.6,2020.4
+GTM,Guatemala,Americas,91.52,"Trachea, bronchus, lung cancers",72.52,2020.4
+GUY,Guyana,Americas,71.05,Chronic obstructive pulmonary disease,29.66,3159
+GUY,Guyana,Americas,71.05,Ischaemic heart disease,436.02,3159
+GUY,Guyana,Americas,71.05,Lower respiratory infections,67.66,3159
+GUY,Guyana,Americas,71.05,Stroke,181.67000000000002,3159
+GUY,Guyana,Americas,71.05,"Trachea, bronchus, lung cancers",3.6,3159
+HND,Honduras,Americas,76.39,Chronic obstructive pulmonary disease,784,1875.5
+HND,Honduras,Americas,76.39,Ischaemic heart disease,3300,1875.5
+HND,Honduras,Americas,76.39,Lower respiratory infections,464.99,1875.5
+HND,Honduras,Americas,76.39,Stroke,1424.6,1875.5
+HND,Honduras,Americas,76.39,"Trachea, bronchus, lung cancers",63.25,1875.5
+HRV,Croatia,Europe,51.13,Chronic obstructive pulmonary disease,473.6,4156
+HRV,Croatia,Europe,51.13,Ischaemic heart disease,4660,4156
+HRV,Croatia,Europe,51.13,Lower respiratory infections,317.61,4156
+HRV,Croatia,Europe,51.13,Stroke,1399.2,4156
+HRV,Croatia,Europe,51.13,"Trachea, bronchus, lung cancers",399.15999999999997,4156
+HTI,Haiti,Americas,53.08,Chronic obstructive pulmonary disease,339.37,2865.5
+HTI,Haiti,Americas,53.08,Ischaemic heart disease,3997.9,2865.5
+HTI,Haiti,Americas,53.08,Lower respiratory infections,1207.7,2865.5
+HTI,Haiti,Americas,53.08,Stroke,1844.6,2865.5
+HTI,Haiti,Americas,53.08,"Trachea, bronchus, lung cancers",39.52,2865.5
+HUN,Hungary,Europe,47.6,Chronic obstructive pulmonary disease,1386.6,5106
+HUN,Hungary,Europe,47.6,Ischaemic heart disease,13744,5106
+HUN,Hungary,Europe,47.6,Lower respiratory infections,453.4,5106
+HUN,Hungary,Europe,47.6,Stroke,2583.7,5106
+HUN,Hungary,Europe,47.6,"Trachea, bronchus, lung cancers",1103.2,5106
+IDN,Indonesia,South-East Asia,57.13,Chronic obstructive pulmonary disease,20536,3402.5
+IDN,Indonesia,South-East Asia,57.13,Ischaemic heart disease,105099,3402.5
+IDN,Indonesia,South-East Asia,57.13,Lower respiratory infections,18648,3402.5
+IDN,Indonesia,South-East Asia,57.13,Stroke,89722,3402.5
+IDN,Indonesia,South-East Asia,57.13,"Trachea, bronchus, lung cancers",5002.9,3402.5
+IND,India,South-East Asia,207.86,Chronic obstructive pulmonary disease,411114,5112
+IND,India,South-East Asia,207.86,Ischaemic heart disease,808282,5112
+IND,India,South-East Asia,207.86,Lower respiratory infections,238234,5112
+IND,India,South-East Asia,207.86,Stroke,273952,5112
+IND,India,South-East Asia,207.86,"Trachea, bronchus, lung cancers",33694,5112
+IRL,Ireland,Europe,23.78,Chronic obstructive pulmonary disease,248.78,1116.6
+IRL,Ireland,Europe,23.78,Ischaemic heart disease,1382.6999999999998,1116.6
+IRL,Ireland,Europe,23.78,Lower respiratory infections,219.18,1116.6
+IRL,Ireland,Europe,23.78,Stroke,257.16999999999996,1116.6
+IRL,Ireland,Europe,23.78,"Trachea, bronchus, lung cancers",123.64,1116.6
+IRN,Iran (Islamic Republic of),Eastern Mediterranean,103.15,Chronic obstructive pulmonary disease,4099.9,2867.3
+IRN,Iran (Islamic Republic of),Eastern Mediterranean,103.15,Ischaemic heart disease,44278,2867.3
+IRN,Iran (Islamic Republic of),Eastern Mediterranean,103.15,Lower respiratory infections,5492,2867.3
+IRN,Iran (Islamic Republic of),Eastern Mediterranean,103.15,Stroke,11862,2867.3
+IRN,Iran (Islamic Republic of),Eastern Mediterranean,103.15,"Trachea, bronchus, lung cancers",1825.2,2867.3
+IRQ,Iraq,Eastern Mediterranean,165.99,Chronic obstructive pulmonary disease,540.4,3173
+IRQ,Iraq,Eastern Mediterranean,165.99,Ischaemic heart disease,18418,3173
+IRQ,Iraq,Eastern Mediterranean,165.99,Lower respiratory infections,2651.6,3173
+IRQ,Iraq,Eastern Mediterranean,165.99,Stroke,7304,3173
+IRQ,Iraq,Eastern Mediterranean,165.99,"Trachea, bronchus, lung cancers",689.76,3173
+ISL,Iceland,Europe,17.439999999999998,Chronic obstructive pulmonary disease,9.28,749.7
+ISL,Iceland,Europe,17.439999999999998,Ischaemic heart disease,80.15,749.7
+ISL,Iceland,Europe,17.439999999999998,Lower respiratory infections,7.38,749.7
+ISL,Iceland,Europe,17.439999999999998,Stroke,12.44,749.7
+ISL,Iceland,Europe,17.439999999999998,"Trachea, bronchus, lung cancers",4.03,749.7
+ISR,Israel,Europe,54.51,Chronic obstructive pulmonary disease,415.8,1169
+ISR,Israel,Europe,54.51,Ischaemic heart disease,2128,1169
+ISR,Israel,Europe,54.51,Lower respiratory infections,572.4,1169
+ISR,Israel,Europe,54.51,Stroke,627.6,1169
+ISR,Israel,Europe,54.51,"Trachea, bronchus, lung cancers",363.55,1169
+ITA,Italy,Europe,40.73,Chronic obstructive pulmonary disease,6900,2195.1
+ITA,Italy,Europe,40.73,Ischaemic heart disease,35908,2195.1
+ITA,Italy,Europe,40.73,Lower respiratory infections,4804,2195.1
+ITA,Italy,Europe,40.73,Stroke,13409,2195.1
+ITA,Italy,Europe,40.73,"Trachea, bronchus, lung cancers",4454.2,2195.1
+JAM,Jamaica,Americas,44.18,Chronic obstructive pulmonary disease,99.54,1451.2
+JAM,Jamaica,Americas,44.18,Ischaemic heart disease,651.2,1451.2
+JAM,Jamaica,Americas,44.18,Lower respiratory infections,118.67,1451.2
+JAM,Jamaica,Americas,44.18,Stroke,532.2,1451.2
+JAM,Jamaica,Americas,44.18,"Trachea, bronchus, lung cancers",64.62,1451.2
+JOR,Jordan,Eastern Mediterranean,103.24000000000001,Chronic obstructive pulmonary disease,142.82,1481.5
+JOR,Jordan,Eastern Mediterranean,103.24000000000001,Ischaemic heart disease,2196.2,1481.5
+JOR,Jordan,Eastern Mediterranean,103.24000000000001,Lower respiratory infections,409.63,1481.5
+JOR,Jordan,Eastern Mediterranean,103.24000000000001,Stroke,865.6,1481.5
+JOR,Jordan,Eastern Mediterranean,103.24000000000001,"Trachea, bronchus, lung cancers",243.32999999999998,1481.5
+JPN,Japan,Western Pacific,38.61,Chronic obstructive pulmonary disease,13414,2024.1999999999998
+JPN,Japan,Western Pacific,38.61,Ischaemic heart disease,54694,2024.1999999999998
+JPN,Japan,Western Pacific,38.61,Lower respiratory infections,24934,2024.1999999999998
+JPN,Japan,Western Pacific,38.61,Stroke,22037,2024.1999999999998
+JPN,Japan,Western Pacific,38.61,"Trachea, bronchus, lung cancers",7634,2024.1999999999998
+KAZ,Kazakhstan,Europe,59.58,Chronic obstructive pulmonary disease,2371.7,4205
+KAZ,Kazakhstan,Europe,59.58,Ischaemic heart disease,13828,4205
+KAZ,Kazakhstan,Europe,59.58,Lower respiratory infections,1538,4205
+KAZ,Kazakhstan,Europe,59.58,Stroke,6314,4205
+KAZ,Kazakhstan,Europe,59.58,"Trachea, bronchus, lung cancers",899.3199999999999,4205
+KEN,Kenya,Africa,78.12,Chronic obstructive pulmonary disease,770.5,1360.3
+KEN,Kenya,Africa,78.12,Ischaemic heart disease,3948.4,1360.3
+KEN,Kenya,Africa,78.12,Lower respiratory infections,4986,1360.3
+KEN,Kenya,Africa,78.12,Stroke,2914.4,1360.3
+KEN,Kenya,Africa,78.12,"Trachea, bronchus, lung cancers",72.96,1360.3
+KGZ,Kyrgyzstan,Europe,72.69,Chronic obstructive pulmonary disease,455.6,3727
+KGZ,Kyrgyzstan,Europe,72.69,Ischaemic heart disease,4570,3727
+KGZ,Kyrgyzstan,Europe,72.69,Lower respiratory infections,340.44,3727
+KGZ,Kyrgyzstan,Europe,72.69,Stroke,1304,3727
+KGZ,Kyrgyzstan,Europe,72.69,"Trachea, bronchus, lung cancers",187.44,3727
+KHM,Cambodia,Western Pacific,76.77000000000001,Chronic obstructive pulmonary disease,769.1,2867.8
+KHM,Cambodia,Western Pacific,76.77000000000001,Ischaemic heart disease,4124,2867.8
+KHM,Cambodia,Western Pacific,76.77000000000001,Lower respiratory infections,3056.3,2867.8
+KHM,Cambodia,Western Pacific,76.77000000000001,Stroke,3202.1,2867.8
+KHM,Cambodia,Western Pacific,76.77000000000001,"Trachea, bronchus, lung cancers",268.8,2867.8
+KIR,Kiribati,Western Pacific,33.45,Chronic obstructive pulmonary disease,3.3,3064.5
+KIR,Kiribati,Western Pacific,33.45,Ischaemic heart disease,40.94,3064.5
+KIR,Kiribati,Western Pacific,33.45,Lower respiratory infections,6.98,3064.5
+KIR,Kiribati,Western Pacific,33.45,Stroke,18.76,3064.5
+KIR,Kiribati,Western Pacific,33.45,"Trachea, bronchus, lung cancers",0.746,3064.5
+KOR,Republic of Korea,Western Pacific,78.6,Chronic obstructive pulmonary disease,2641.9,1969
+KOR,Republic of Korea,Western Pacific,78.6,Ischaemic heart disease,12467,1969
+KOR,Republic of Korea,Western Pacific,78.6,Lower respiratory infections,11648,1969
+KOR,Republic of Korea,Western Pacific,78.6,Stroke,7395,1969
+KOR,Republic of Korea,Western Pacific,78.6,"Trachea, bronchus, lung cancers",4415.8,1969
+KWT,Kuwait,Eastern Mediterranean,184.08,Chronic obstructive pulmonary disease,45,2228.5
+KWT,Kuwait,Eastern Mediterranean,184.08,Ischaemic heart disease,1334.87,2228.5
+KWT,Kuwait,Eastern Mediterranean,184.08,Lower respiratory infections,243.43,2228.5
+KWT,Kuwait,Eastern Mediterranean,184.08,Stroke,262.94,2228.5
+KWT,Kuwait,Eastern Mediterranean,184.08,"Trachea, bronchus, lung cancers",73.92,2228.5
+LAO,Lao People's Democratic Republic,Western Pacific,61.7,Chronic obstructive pulmonary disease,452.59000000000003,3406.8
+LAO,Lao People's Democratic Republic,Western Pacific,61.7,Ischaemic heart disease,2178,3406.8
+LAO,Lao People's Democratic Republic,Western Pacific,61.7,Lower respiratory infections,1055.4,3406.8
+LAO,Lao People's Democratic Republic,Western Pacific,61.7,Stroke,1510.4,3406.8
+LAO,Lao People's Democratic Republic,Western Pacific,61.7,"Trachea, bronchus, lung cancers",175.86,3406.8
+LBN,Lebanon,Eastern Mediterranean,91,Chronic obstructive pulmonary disease,274.77,3522.9
+LBN,Lebanon,Eastern Mediterranean,91,Ischaemic heart disease,5906,3522.9
+LBN,Lebanon,Eastern Mediterranean,91,Lower respiratory infections,403.72,3522.9
+LBN,Lebanon,Eastern Mediterranean,91,Stroke,517.8,3522.9
+LBN,Lebanon,Eastern Mediterranean,91,"Trachea, bronchus, lung cancers",325.55,3522.9
+LBR,Liberia,Africa,156.78,Chronic obstructive pulmonary disease,111.26,3476
+LBR,Liberia,Africa,156.78,Ischaemic heart disease,919.4,3476
+LBR,Liberia,Africa,156.78,Lower respiratory infections,1318.4,3476
+LBR,Liberia,Africa,156.78,Stroke,522,3476
+LBR,Liberia,Africa,156.78,"Trachea, bronchus, lung cancers",19.42,3476
+LBY,Libya,Eastern Mediterranean,145.91,Chronic obstructive pulmonary disease,206.96,2722.8
+LBY,Libya,Eastern Mediterranean,145.91,Ischaemic heart disease,3030,2722.8
+LBY,Libya,Eastern Mediterranean,145.91,Lower respiratory infections,349.15999999999997,2722.8
+LBY,Libya,Eastern Mediterranean,145.91,Stroke,793.1,2722.8
+LBY,Libya,Eastern Mediterranean,145.91,"Trachea, bronchus, lung cancers",149.5,2722.8
+LCA,Saint Lucia,Americas,64.93,Chronic obstructive pulmonary disease,7.52,1514.6
+LCA,Saint Lucia,Americas,64.93,Ischaemic heart disease,45.36,1514.6
+LCA,Saint Lucia,Americas,64.93,Lower respiratory infections,12.24,1514.6
+LCA,Saint Lucia,Americas,64.93,Stroke,29.44,1514.6
+LCA,Saint Lucia,Americas,64.93,"Trachea, bronchus, lung cancers",1.39,1514.6
+LKA,Sri Lanka,South-East Asia,49.64,Chronic obstructive pulmonary disease,2902,2942.5
+LKA,Sri Lanka,South-East Asia,49.64,Ischaemic heart disease,11608,2942.5
+LKA,Sri Lanka,South-East Asia,49.64,Lower respiratory infections,2206.3,2942.5
+LKA,Sri Lanka,South-East Asia,49.64,Stroke,1939.5,2942.5
+LKA,Sri Lanka,South-East Asia,49.64,"Trachea, bronchus, lung cancers",380.43,2942.5
+LSO,Lesotho,Africa,74.61,Chronic obstructive pulmonary disease,273.05,6910
+LSO,Lesotho,Africa,74.61,Ischaemic heart disease,838.6,6910
+LSO,Lesotho,Africa,74.61,Lower respiratory infections,1079.6,6910
+LSO,Lesotho,Africa,74.61,Stroke,677.4,6910
+LSO,Lesotho,Africa,74.61,"Trachea, bronchus, lung cancers",8.28,6910
+LTU,Lithuania,Europe,32.32,Chronic obstructive pulmonary disease,84.54,4872
+LTU,Lithuania,Europe,32.32,Ischaemic heart disease,5015.6,4872
+LTU,Lithuania,Europe,32.32,Lower respiratory infections,144.62,4872
+LTU,Lithuania,Europe,32.32,Stroke,988.8,4872
+LTU,Lithuania,Europe,32.32,"Trachea, bronchus, lung cancers",120.18,4872
+LUX,Luxembourg,Europe,28.759999999999998,Chronic obstructive pulmonary disease,34.58,1224.4
+LUX,Luxembourg,Europe,28.759999999999998,Ischaemic heart disease,200,1224.4
+LUX,Luxembourg,Europe,28.759999999999998,Lower respiratory infections,20.85,1224.4
+LUX,Luxembourg,Europe,28.759999999999998,Stroke,40.230000000000004,1224.4
+LUX,Luxembourg,Europe,28.759999999999998,"Trachea, bronchus, lung cancers",19.1,1224.4
+LVA,Latvia,Europe,36.74,Chronic obstructive pulmonary disease,64.16,5084
+LVA,Latvia,Europe,36.74,Ischaemic heart disease,2794.2,5084
+LVA,Latvia,Europe,36.74,Lower respiratory infections,126.66,5084
+LVA,Latvia,Europe,36.74,Stroke,1130.2,5084
+LVA,Latvia,Europe,36.74,"Trachea, bronchus, lung cancers",102.89,5084
+MAR,Morocco,Eastern Mediterranean,85.14,Chronic obstructive pulmonary disease,1278,3664
+MAR,Morocco,Eastern Mediterranean,85.14,Ischaemic heart disease,28012,3664
+MAR,Morocco,Eastern Mediterranean,85.14,Lower respiratory infections,1949.9,3664
+MAR,Morocco,Eastern Mediterranean,85.14,Stroke,6562,3664
+MAR,Morocco,Eastern Mediterranean,85.14,"Trachea, bronchus, lung cancers",805.17,3664
+MDA,Republic of Moldova,Europe,40.4,Chronic obstructive pulmonary disease,143.54,4919
+MDA,Republic of Moldova,Europe,40.4,Ischaemic heart disease,5024,4919
+MDA,Republic of Moldova,Europe,40.4,Lower respiratory infections,265.62,4919
+MDA,Republic of Moldova,Europe,40.4,Stroke,1156.4,4919
+MDA,Republic of Moldova,Europe,40.4,"Trachea, bronchus, lung cancers",126.62,4919
+MDG,Madagascar,Africa,52.620000000000005,Chronic obstructive pulmonary disease,894.4,2667.8
+MDG,Madagascar,Africa,52.620000000000005,Ischaemic heart disease,4725.8,2667.8
+MDG,Madagascar,Africa,52.620000000000005,Lower respiratory infections,4308,2667.8
+MDG,Madagascar,Africa,52.620000000000005,Stroke,3998.2,2667.8
+MDG,Madagascar,Africa,52.620000000000005,"Trachea, bronchus, lung cancers",21.46,2667.8
+MDV,Maldives,South-East Asia,33.38,Chronic obstructive pulmonary disease,18.12,947.8
+MDV,Maldives,South-East Asia,33.38,Ischaemic heart disease,100.36,947.8
+MDV,Maldives,South-East Asia,33.38,Lower respiratory infections,8.82,947.8
+MDV,Maldives,South-East Asia,33.38,Stroke,28.98,947.8
+MDV,Maldives,South-East Asia,33.38,"Trachea, bronchus, lung cancers",4.32,947.8
+MEX,Mexico,Americas,67.94,Chronic obstructive pulmonary disease,7335,1746.3
+MEX,Mexico,Americas,67.94,Ischaemic heart disease,46579,1746.3
+MEX,Mexico,Americas,67.94,Lower respiratory infections,8575,1746.3
+MEX,Mexico,Americas,67.94,Stroke,9672,1746.3
+MEX,Mexico,Americas,67.94,"Trachea, bronchus, lung cancers",1206.1,1746.3
+MKD,The former Yugoslav Republic of Macedonia,Europe,89.17,Chronic obstructive pulmonary disease,255.38,5772
+MKD,The former Yugoslav Republic of Macedonia,Europe,89.17,Ischaemic heart disease,1983.6,5772
+MKD,The former Yugoslav Republic of Macedonia,Europe,89.17,Lower respiratory infections,69.06,5772
+MKD,The former Yugoslav Republic of Macedonia,Europe,89.17,Stroke,1623.5,5772
+MKD,The former Yugoslav Republic of Macedonia,Europe,89.17,"Trachea, bronchus, lung cancers",237.99,5772
+MLI,Mali,Africa,190.75,Chronic obstructive pulmonary disease,759.5,4451
+MLI,Mali,Africa,190.75,Ischaemic heart disease,2879.6,4451
+MLI,Mali,Africa,190.75,Lower respiratory infections,5829,4451
+MLI,Mali,Africa,190.75,Stroke,1978.6,4451
+MLI,Mali,Africa,190.75,"Trachea, bronchus, lung cancers",76.9,4451
+MLT,Malta,Europe,35.72,Chronic obstructive pulmonary disease,25.32,2440.5
+MLT,Malta,Europe,35.72,Ischaemic heart disease,315.76,2440.5
+MLT,Malta,Europe,35.72,Lower respiratory infections,58.11,2440.5
+MLT,Malta,Europe,35.72,Stroke,59.46,2440.5
+MLT,Malta,Europe,35.72,"Trachea, bronchus, lung cancers",23.24,2440.5
+MMR,Myanmar,South-East Asia,99.9,Chronic obstructive pulmonary disease,8784,4101
+MMR,Myanmar,South-East Asia,99.9,Ischaemic heart disease,15880,4101
+MMR,Myanmar,South-East Asia,99.9,Lower respiratory infections,7642,4101
+MMR,Myanmar,South-East Asia,99.9,Stroke,21537,4101
+MMR,Myanmar,South-East Asia,99.9,"Trachea, bronchus, lung cancers",1815.2,4101
+MNE,Montenegro,Europe,60.650000000000006,Chronic obstructive pulmonary disease,24.12,5990
+MNE,Montenegro,Europe,60.650000000000006,Ischaemic heart disease,723.5,5990
+MNE,Montenegro,Europe,60.650000000000006,Lower respiratory infections,30.3,5990
+MNE,Montenegro,Europe,60.650000000000006,Stroke,567.8,5990
+MNE,Montenegro,Europe,60.650000000000006,"Trachea, bronchus, lung cancers",60.45,5990
+MNG,Mongolia,Western Pacific,137.82999999999998,Chronic obstructive pulmonary disease,135.28,5973
+MNG,Mongolia,Western Pacific,137.82999999999998,Ischaemic heart disease,2608.5,5973
+MNG,Mongolia,Western Pacific,137.82999999999998,Lower respiratory infections,222.24,5973
+MNG,Mongolia,Western Pacific,137.82999999999998,Stroke,1573.9,5973
+MNG,Mongolia,Western Pacific,137.82999999999998,"Trachea, bronchus, lung cancers",135.36,5973
+MOZ,Mozambique,Africa,63.260000000000005,Chronic obstructive pulmonary disease,669.9,3355.2
+MOZ,Mozambique,Africa,63.260000000000005,Ischaemic heart disease,4714,3355.2
+MOZ,Mozambique,Africa,63.260000000000005,Lower respiratory infections,6636,3355.2
+MOZ,Mozambique,Africa,63.260000000000005,Stroke,5154,3355.2
+MOZ,Mozambique,Africa,63.260000000000005,"Trachea, bronchus, lung cancers",32.67,3355.2
+MRT,Mauritania,Africa,223.04,Chronic obstructive pulmonary disease,111.06,3466
+MRT,Mauritania,Africa,223.04,Ischaemic heart disease,813.9,3466
+MRT,Mauritania,Africa,223.04,Lower respiratory infections,1255.7,3466
+MRT,Mauritania,Africa,223.04,Stroke,450.04,3466
+MRT,Mauritania,Africa,223.04,"Trachea, bronchus, lung cancers",19.55,3466
+MUS,Mauritius,Africa,31.4,Chronic obstructive pulmonary disease,105.82,2500.1
+MUS,Mauritius,Africa,31.4,Ischaemic heart disease,588.4,2500.1
+MUS,Mauritius,Africa,31.4,Lower respiratory infections,75.57,2500.1
+MUS,Mauritius,Africa,31.4,Stroke,172.02,2500.1
+MUS,Mauritius,Africa,31.4,"Trachea, bronchus, lung cancers",16.630000000000003,2500.1
+MWI,Malawi,Africa,76.08,Chronic obstructive pulmonary disease,324.87,1707.5
+MWI,Malawi,Africa,76.08,Ischaemic heart disease,1896.6,1707.5
+MWI,Malawi,Africa,76.08,Lower respiratory infections,2340.3,1707.5
+MWI,Malawi,Africa,76.08,Stroke,1388,1707.5
+MWI,Malawi,Africa,76.08,"Trachea, bronchus, lung cancers",21.34,1707.5
+MYS,Malaysia,Western Pacific,46.54,Chronic obstructive pulmonary disease,1891.2,3673.6
+MYS,Malaysia,Western Pacific,46.54,Ischaemic heart disease,15610,3673.6
+MYS,Malaysia,Western Pacific,46.54,Lower respiratory infections,9426,3673.6
+MYS,Malaysia,Western Pacific,46.54,Stroke,5796,3673.6
+MYS,Malaysia,Western Pacific,46.54,"Trachea, bronchus, lung cancers",845.2,3673.6
+"NAM",Namibia,Africa,72.09,Chronic obstructive pulmonary disease,82.23,1913.4
+"NAM",Namibia,Africa,72.09,Ischaemic heart disease,407.79,1913.4
+"NAM",Namibia,Africa,72.09,Lower respiratory infections,332.96000000000004,1913.4
+"NAM",Namibia,Africa,72.09,Stroke,244.57999999999998,1913.4
+"NAM",Namibia,Africa,72.09,"Trachea, bronchus, lung cancers",6.07,1913.4
+NER,Niger,Africa,276.43,Chronic obstructive pulmonary disease,966.4,5411
+NER,Niger,Africa,276.43,Ischaemic heart disease,4316,5411
+NER,Niger,Africa,276.43,Lower respiratory infections,10006,5411
+NER,Niger,Africa,276.43,Stroke,3104.1,5411
+NER,Niger,Africa,276.43,"Trachea, bronchus, lung cancers",15.66,5411
+NGA,Nigeria,Africa,181.62,Chronic obstructive pulmonary disease,6102,7012
+NGA,Nigeria,Africa,181.62,Ischaemic heart disease,33400,7012
+NGA,Nigeria,Africa,181.62,Lower respiratory infections,103540,7012
+NGA,Nigeria,Africa,181.62,Stroke,22542,7012
+NGA,Nigeria,Africa,181.62,"Trachea, bronchus, lung cancers",527.59,7012
+NIC,Nicaragua,Americas,66.32,Chronic obstructive pulmonary disease,364.96,1562.4
+NIC,Nicaragua,Americas,66.32,Ischaemic heart disease,2252.4,1562.4
+NIC,Nicaragua,Americas,66.32,Lower respiratory infections,352.40999999999997,1562.4
+NIC,Nicaragua,Americas,66.32,Stroke,509,1562.4
+NIC,Nicaragua,Americas,66.32,"Trachea, bronchus, lung cancers",40.17,1562.4
+NLD,Netherlands,Europe,34.63,Chronic obstructive pulmonary disease,1639.4,1651.6
+NLD,Netherlands,Europe,34.63,Ischaemic heart disease,5887,1651.6
+NLD,Netherlands,Europe,34.63,Lower respiratory infections,1139,1651.6
+NLD,Netherlands,Europe,34.63,Stroke,1755.6,1651.6
+NLD,Netherlands,Europe,34.63,"Trachea, bronchus, lung cancers",1044.8,1651.6
+NOR,Norway,Europe,20.63,Chronic obstructive pulmonary disease,234.59,838.7
+NOR,Norway,Europe,20.63,Ischaemic heart disease,1174.6,838.7
+NOR,Norway,Europe,20.63,Lower respiratory infections,195.01,838.7
+NOR,Norway,Europe,20.63,Stroke,252.96,838.7
+NOR,Norway,Europe,20.63,"Trachea, bronchus, lung cancers",88.5,838.7
+NPL,Nepal,South-East Asia,247.26,Chronic obstructive pulmonary disease,10647,3752
+NPL,Nepal,South-East Asia,247.26,Ischaemic heart disease,9680,3752
+NPL,Nepal,South-East Asia,247.26,Lower respiratory infections,3291.6,3752
+NPL,Nepal,South-East Asia,247.26,Stroke,4459.2,3752
+NPL,Nepal,South-East Asia,247.26,"Trachea, bronchus, lung cancers",1086,3752
+NZL,New Zealand,Western Pacific,19.69,Chronic obstructive pulmonary disease,247.16,1239.2
+NZL,New Zealand,Western Pacific,19.69,Ischaemic heart disease,1511.3000000000002,1239.2
+NZL,New Zealand,Western Pacific,19.69,Lower respiratory infections,163.92,1239.2
+NZL,New Zealand,Western Pacific,19.69,Stroke,357.79,1239.2
+NZL,New Zealand,Western Pacific,19.69,"Trachea, bronchus, lung cancers",130.06,1239.2
+OMN,Oman,Eastern Mediterranean,130.74,Chronic obstructive pulmonary disease,122.32,2673.1
+OMN,Oman,Eastern Mediterranean,130.74,Ischaemic heart disease,2561.6,2673.1
+OMN,Oman,Eastern Mediterranean,130.74,Lower respiratory infections,367.14,2673.1
+OMN,Oman,Eastern Mediterranean,130.74,Stroke,537,2673.1
+OMN,Oman,Eastern Mediterranean,130.74,"Trachea, bronchus, lung cancers",32.88,2673.1
+PAK,Pakistan,Eastern Mediterranean,177.55,Chronic obstructive pulmonary disease,40855,6239
+PAK,Pakistan,Eastern Mediterranean,177.55,Ischaemic heart disease,128584,6239
+PAK,Pakistan,Eastern Mediterranean,177.55,Lower respiratory infections,45348,6239
+PAK,Pakistan,Eastern Mediterranean,177.55,Stroke,55507,6239
+PAK,Pakistan,Eastern Mediterranean,177.55,"Trachea, bronchus, lung cancers",3717.2,6239
+PAN,Panama,Americas,44.57,Chronic obstructive pulmonary disease,149.1,1070.3
+PAN,Panama,Americas,44.57,Ischaemic heart disease,903.1,1070.3
+PAN,Panama,Americas,44.57,Lower respiratory infections,167.32999999999998,1070.3
+PAN,Panama,Americas,44.57,Stroke,381.53000000000003,1070.3
+PAN,Panama,Americas,44.57,"Trachea, bronchus, lung cancers",31.82,1070.3
+PER,Peru,Americas,90.1,Chronic obstructive pulmonary disease,857.6999999999999,1671.6999999999998
+PER,Peru,Americas,90.1,Ischaemic heart disease,6346,1671.6999999999998
+PER,Peru,Americas,90.1,Lower respiratory infections,7335,1671.6999999999998
+PER,Peru,Americas,90.1,Stroke,2362.4,1671.6999999999998
+PER,Peru,Americas,90.1,"Trachea, bronchus, lung cancers",794.2,1671.6999999999998
+PHL,Philippines,Western Pacific,63.53,Chronic obstructive pulmonary disease,9550,4009
+PHL,Philippines,Western Pacific,63.53,Ischaemic heart disease,55804,4009
+PHL,Philippines,Western Pacific,63.53,Lower respiratory infections,38228,4009
+PHL,Philippines,Western Pacific,63.53,Stroke,20379,4009
+PHL,Philippines,Western Pacific,63.53,"Trachea, bronchus, lung cancers",2079.7,4009
+PNG,Papua New Guinea,Western Pacific,34.3,Chronic obstructive pulmonary disease,548.8,1905.3
+PNG,Papua New Guinea,Western Pacific,34.3,Ischaemic heart disease,1707.5,1905.3
+PNG,Papua New Guinea,Western Pacific,34.3,Lower respiratory infections,388.15,1905.3
+PNG,Papua New Guinea,Western Pacific,34.3,Stroke,653.6,1905.3
+PNG,Papua New Guinea,Western Pacific,34.3,"Trachea, bronchus, lung cancers",42.6,1905.3
+POL,Poland,Europe,61.45,Chronic obstructive pulmonary disease,3589.9,4637
+POL,Poland,Europe,61.45,Ischaemic heart disease,48256,4637
+POL,Poland,Europe,61.45,Lower respiratory infections,7348,4637
+POL,Poland,Europe,61.45,Stroke,8270,4637
+POL,Poland,Europe,61.45,"Trachea, bronchus, lung cancers",4478.1,4637
+PRK,Democratic People's Republic of Korea,South-East Asia,115.27000000000001,Chronic obstructive pulmonary disease,11102,7117
+PRK,Democratic People's Republic of Korea,South-East Asia,115.27000000000001,Ischaemic heart disease,16005,7117
+PRK,Democratic People's Republic of Korea,South-East Asia,115.27000000000001,Lower respiratory infections,3601.9,7117
+PRK,Democratic People's Republic of Korea,South-East Asia,115.27000000000001,Stroke,18223,7117
+PRK,Democratic People's Republic of Korea,South-East Asia,115.27000000000001,"Trachea, bronchus, lung cancers",3975.7,7117
+PRT,Portugal,Europe,23.39,Chronic obstructive pulmonary disease,468.3,1405.8
+PRT,Portugal,Europe,23.39,Ischaemic heart disease,3299.7,1405.8
+PRT,Portugal,Europe,23.39,Lower respiratory infections,967.8,1405.8
+PRT,Portugal,Europe,23.39,Stroke,1536.8,1405.8
+PRT,Portugal,Europe,23.39,"Trachea, bronchus, lung cancers",231.23,1405.8
+PRY,Paraguay,Americas,35.75,Chronic obstructive pulmonary disease,222.4,1341.3
+PRY,Paraguay,Americas,35.75,Ischaemic heart disease,1497,1341.3
+PRY,Paraguay,Americas,35.75,Lower respiratory infections,414.77,1341.3
+PRY,Paraguay,Americas,35.75,Stroke,580.8,1341.3
+PRY,Paraguay,Americas,35.75,"Trachea, bronchus, lung cancers",81.11,1341.3
+QAT,Qatar,Eastern Mediterranean,235.74,Chronic obstructive pulmonary disease,34.769999999999996,1313.6
+QAT,Qatar,Eastern Mediterranean,235.74,Ischaemic heart disease,608.1,1313.6
+QAT,Qatar,Eastern Mediterranean,235.74,Lower respiratory infections,75.36,1313.6
+QAT,Qatar,Eastern Mediterranean,235.74,Stroke,107.1,1313.6
+QAT,Qatar,Eastern Mediterranean,235.74,"Trachea, bronchus, lung cancers",31.52,1313.6
+ROU,Romania,Europe,43.83,Chronic obstructive pulmonary disease,1500.1,5464
+ROU,Romania,Europe,43.83,Ischaemic heart disease,26108,5464
+ROU,Romania,Europe,43.83,Lower respiratory infections,2601.5,5464
+ROU,Romania,Europe,43.83,Stroke,10309,5464
+ROU,Romania,Europe,43.83,"Trachea, bronchus, lung cancers",1233.3,5464
+RUS,Russian Federation,Europe,29.09,Chronic obstructive pulmonary disease,4861.8,4194
+RUS,Russian Federation,Europe,29.09,Ischaemic heart disease,156040,4194
+RUS,Russian Federation,Europe,29.09,Lower respiratory infections,5711.1,4194
+RUS,Russian Federation,Europe,29.09,Stroke,46823,4194
+RUS,Russian Federation,Europe,29.09,"Trachea, bronchus, lung cancers",3824.5,4194
+RWA,Rwanda,Africa,118.95,Chronic obstructive pulmonary disease,577.8,2611.5
+RWA,Rwanda,Africa,118.95,Ischaemic heart disease,1725,2611.5
+RWA,Rwanda,Africa,118.95,Lower respiratory infections,2464.5,2611.5
+RWA,Rwanda,Africa,118.95,Stroke,1673.6,2611.5
+RWA,Rwanda,Africa,118.95,"Trachea, bronchus, lung cancers",67.28,2611.5
+SAU,Saudi Arabia,Eastern Mediterranean,182.69,Chronic obstructive pulmonary disease,1418,4509
+SAU,Saudi Arabia,Eastern Mediterranean,182.69,Ischaemic heart disease,21582,4509
+SAU,Saudi Arabia,Eastern Mediterranean,182.69,Lower respiratory infections,4182.1,4509
+SAU,Saudi Arabia,Eastern Mediterranean,182.69,Stroke,7002,4509
+SAU,Saudi Arabia,Eastern Mediterranean,182.69,"Trachea, bronchus, lung cancers",322.33,4509
+SDN,Sudan,Eastern Mediterranean,130.87,Chronic obstructive pulmonary disease,1159.2,2931.1
+SDN,Sudan,Eastern Mediterranean,130.87,Ischaemic heart disease,18052,2931.1
+SDN,Sudan,Eastern Mediterranean,130.87,Lower respiratory infections,3757.7,2931.1
+SDN,Sudan,Eastern Mediterranean,130.87,Stroke,5148,2931.1
+SDN,Sudan,Eastern Mediterranean,130.87,"Trachea, bronchus, lung cancers",102.1,2931.1
+SEN,Senegal,Africa,179.32,Chronic obstructive pulmonary disease,535.8,2962.6
+SEN,Senegal,Africa,179.32,Ischaemic heart disease,3098.4,2962.6
+SEN,Senegal,Africa,179.32,Lower respiratory infections,3534.3,2962.6
+SEN,Senegal,Africa,179.32,Stroke,1820.1,2962.6
+SEN,Senegal,Africa,179.32,"Trachea, bronchus, lung cancers",56.32,2962.6
+SGP,Singapore,Western Pacific,49.83,Chronic obstructive pulmonary disease,78.18,2029.5
+SGP,Singapore,Western Pacific,49.83,Ischaemic heart disease,1925.6999999999998,2029.5
+SGP,Singapore,Western Pacific,49.83,Lower respiratory infections,1452.1,2029.5
+SGP,Singapore,Western Pacific,49.83,Stroke,322.23,2029.5
+SGP,Singapore,Western Pacific,49.83,"Trachea, bronchus, lung cancers",187.92,2029.5
+SLB,Solomon Islands,Western Pacific,33.91,Chronic obstructive pulmonary disease,22.36,2555.3
+SLB,Solomon Islands,Western Pacific,33.91,Ischaemic heart disease,229.63,2555.3
+SLB,Solomon Islands,Western Pacific,33.91,Lower respiratory infections,52.64,2555.3
+SLB,Solomon Islands,Western Pacific,33.91,Stroke,79.56,2555.3
+SLB,Solomon Islands,Western Pacific,33.91,"Trachea, bronchus, lung cancers",1.93,2555.3
+SLE,Sierra Leone,Africa,163.56,Chronic obstructive pulmonary disease,314.39,6438
+SLE,Sierra Leone,Africa,163.56,Ischaemic heart disease,2006.2,6438
+SLE,Sierra Leone,Africa,163.56,Lower respiratory infections,3846,6438
+SLE,Sierra Leone,Africa,163.56,Stroke,1244.7,6438
+SLE,Sierra Leone,Africa,163.56,"Trachea, bronchus, lung cancers",26.96,6438
+SLV,El Salvador,Americas,87.39,Chronic obstructive pulmonary disease,434,1853.6999999999998
+SLV,El Salvador,Americas,87.39,Ischaemic heart disease,2495.9,1853.6999999999998
+SLV,El Salvador,Americas,87.39,Lower respiratory infections,981.2,1853.6999999999998
+SLV,El Salvador,Americas,87.39,Stroke,431.4,1853.6999999999998
+SLV,El Salvador,Americas,87.39,"Trachea, bronchus, lung cancers",57.34,1853.6999999999998
+SOM,Somalia,Eastern Mediterranean,83,Chronic obstructive pulmonary disease,493.15999999999997,4276
+SOM,Somalia,Eastern Mediterranean,83,Ischaemic heart disease,2596,4276
+SOM,Somalia,Eastern Mediterranean,83,Lower respiratory infections,4725,4276
+SOM,Somalia,Eastern Mediterranean,83,Stroke,1749.8,4276
+SOM,Somalia,Eastern Mediterranean,83,"Trachea, bronchus, lung cancers",29.770000000000003,4276
+SRB,Serbia,Europe,73.9,Chronic obstructive pulmonary disease,1115.2,5461
+SRB,Serbia,Europe,73.9,Ischaemic heart disease,9366,5461
+SRB,Serbia,Europe,73.9,Lower respiratory infections,746.2,5461
+SRB,Serbia,Europe,73.9,Stroke,4447.3,5461
+SRB,Serbia,Europe,73.9,"Trachea, bronchus, lung cancers",1298.4,5461
+SSD,South Sudan,Africa,104.09,Chronic obstructive pulmonary disease,234.17000000000002,3108.6
+SSD,South Sudan,Africa,104.09,Ischaemic heart disease,1192,3108.6
+SSD,South Sudan,Africa,104.09,Lower respiratory infections,2622.2,3108.6
+SSD,South Sudan,Africa,104.09,Stroke,883.8,3108.6
+SSD,South Sudan,Africa,104.09,"Trachea, bronchus, lung cancers",29.6,3108.6
+STP,Sao Tome and Principe,Africa,116.55000000000001,Chronic obstructive pulmonary disease,15.1,3304
+STP,Sao Tome and Principe,Africa,116.55000000000001,Ischaemic heart disease,51.82,3304
+STP,Sao Tome and Principe,Africa,116.55000000000001,Lower respiratory infections,54.94,3304
+STP,Sao Tome and Principe,Africa,116.55000000000001,Stroke,29.96,3304
+STP,Sao Tome and Principe,Africa,116.55000000000001,"Trachea, bronchus, lung cancers",4.1,3304
+SUR,Suriname,Americas,77.28999999999999,Chronic obstructive pulmonary disease,17.16,2365.1
+SUR,Suriname,Americas,77.28999999999999,Ischaemic heart disease,222.82,2365.1
+SUR,Suriname,Americas,77.28999999999999,Lower respiratory infections,42.38,2365.1
+SUR,Suriname,Americas,77.28999999999999,Stroke,116.78,2365.1
+SUR,Suriname,Americas,77.28999999999999,"Trachea, bronchus, lung cancers",11.08,2365.1
+SVK,Slovakia,Europe,52.870000000000005,Chronic obstructive pulmonary disease,262.25,3164.7
+SVK,Slovakia,Europe,52.870000000000005,Ischaemic heart disease,4148,3164.7
+SVK,Slovakia,Europe,52.870000000000005,Lower respiratory infections,655,3164.7
+SVK,Slovakia,Europe,52.870000000000005,Stroke,869.6,3164.7
+SVK,Slovakia,Europe,52.870000000000005,"Trachea, bronchus, lung cancers",378.44,3164.7
+SVN,Slovenia,Europe,48.379999999999995,Chronic obstructive pulmonary disease,144.18,2327.9
+SVN,Slovenia,Europe,48.379999999999995,Ischaemic heart disease,1347.3,2327.9
+SVN,Slovenia,Europe,48.379999999999995,Lower respiratory infections,121.28999999999999,2327.9
+SVN,Slovenia,Europe,48.379999999999995,Stroke,426.15999999999997,2327.9
+SVN,Slovenia,Europe,48.379999999999995,"Trachea, bronchus, lung cancers",164.1,2327.9
+SWE,Sweden,Europe,16.91,Chronic obstructive pulmonary disease,340.15999999999997,988.7
+SWE,Sweden,Europe,16.91,Ischaemic heart disease,3209.9,988.7
+SWE,Sweden,Europe,16.91,Lower respiratory infections,257.8,988.7
+SWE,Sweden,Europe,16.91,Stroke,575.4,988.7
+SWE,Sweden,Europe,16.91,"Trachea, bronchus, lung cancers",122.85,988.7
+SWZ,Eswatini,Africa,59.620000000000005,Chronic obstructive pulmonary disease,58.82,3473.4
+SWZ,Eswatini,Africa,59.620000000000005,Ischaemic heart disease,286.19,3473.4
+SWZ,Eswatini,Africa,59.620000000000005,Lower respiratory infections,271.75,3473.4
+SWZ,Eswatini,Africa,59.620000000000005,Stroke,176.34,3473.4
+SWZ,Eswatini,Africa,59.620000000000005,"Trachea, bronchus, lung cancers",2.31,3473.4
+SYC,Seychelles,Africa,41.04,Chronic obstructive pulmonary disease,5.47,3180.2
+SYC,Seychelles,Africa,41.04,Ischaemic heart disease,41.16,3180.2
+SYC,Seychelles,Africa,41.04,Lower respiratory infections,25.38,3180.2
+SYC,Seychelles,Africa,41.04,Stroke,15.83,3180.2
+SYC,Seychelles,Africa,41.04,"Trachea, bronchus, lung cancers",2.85,3180.2
+SYR,Syrian Arab Republic,Eastern Mediterranean,119.77,Chronic obstructive pulmonary disease,493.9,3572
+SYR,Syrian Arab Republic,Eastern Mediterranean,119.77,Ischaemic heart disease,12560,3572
+SYR,Syrian Arab Republic,Eastern Mediterranean,119.77,Lower respiratory infections,1189.1,3572
+SYR,Syrian Arab Republic,Eastern Mediterranean,119.77,Stroke,2265.9,3572
+SYR,Syrian Arab Republic,Eastern Mediterranean,119.77,"Trachea, bronchus, lung cancers",458.8,3572
+TCD,Chad,Africa,194.63,Chronic obstructive pulmonary disease,576.8,7457
+TCD,Chad,Africa,194.63,Ischaemic heart disease,2828.4,7457
+TCD,Chad,Africa,194.63,Lower respiratory infections,9406,7457
+TCD,Chad,Africa,194.63,Stroke,2030.2,7457
+TCD,Chad,Africa,194.63,"Trachea, bronchus, lung cancers",32.66,7457
+TGO,Togo,Africa,136.65,Chronic obstructive pulmonary disease,313.69,4567
+TGO,Togo,Africa,136.65,Ischaemic heart disease,2024.4,4567
+TGO,Togo,Africa,136.65,Lower respiratory infections,2808,4567
+TGO,Togo,Africa,136.65,Stroke,1191.6999999999998,4567
+TGO,Togo,Africa,136.65,"Trachea, bronchus, lung cancers",22.6,4567
+THA,Thailand,South-East Asia,90.00999999999999,Chronic obstructive pulmonary disease,6085.9,2841.3
+THA,Thailand,South-East Asia,90.00999999999999,Ischaemic heart disease,22817,2841.3
+THA,Thailand,South-East Asia,90.00999999999999,Lower respiratory infections,13782,2841.3
+THA,Thailand,South-East Asia,90.00999999999999,Stroke,14548,2841.3
+THA,Thailand,South-East Asia,90.00999999999999,"Trachea, bronchus, lung cancers",4928.7,2841.3
+TJK,Tajikistan,Europe,112.93,Chronic obstructive pulmonary disease,567.2,6083
+TJK,Tajikistan,Europe,112.93,Ischaemic heart disease,7869,6083
+TJK,Tajikistan,Europe,112.93,Lower respiratory infections,1945.1,6083
+TJK,Tajikistan,Europe,112.93,Stroke,2528,6083
+TJK,Tajikistan,Europe,112.93,"Trachea, bronchus, lung cancers",120.72,6083
+TKM,Turkmenistan,Europe,68.17,Chronic obstructive pulmonary disease,100.8,4451
+TKM,Turkmenistan,Europe,68.17,Ischaemic heart disease,4455,4451
+TKM,Turkmenistan,Europe,68.17,Lower respiratory infections,440.98,4451
+TKM,Turkmenistan,Europe,68.17,Stroke,1403.5,4451
+TKM,Turkmenistan,Europe,68.17,"Trachea, bronchus, lung cancers",95.98,4451
+TLS,Timor-Leste,South-East Asia,49.910000000000004,Chronic obstructive pulmonary disease,74.8,3241.7
+TLS,Timor-Leste,South-East Asia,49.910000000000004,Ischaemic heart disease,330.84000000000003,3241.7
+TLS,Timor-Leste,South-East Asia,49.910000000000004,Lower respiratory infections,227.44,3241.7
+TLS,Timor-Leste,South-East Asia,49.910000000000004,Stroke,231.2,3241.7
+TLS,Timor-Leste,South-East Asia,49.910000000000004,"Trachea, bronchus, lung cancers",15.82,3241.7
+TON,Tonga,Western Pacific,32.79,Chronic obstructive pulmonary disease,2.92,1298.4
+TON,Tonga,Western Pacific,32.79,Ischaemic heart disease,22.56,1298.4
+TON,Tonga,Western Pacific,32.79,Lower respiratory infections,4.32,1298.4
+TON,Tonga,Western Pacific,32.79,Stroke,6.18,1298.4
+TON,Tonga,Western Pacific,32.79,"Trachea, bronchus, lung cancers",1.18,1298.4
+TTO,Trinidad and Tobago,Americas,70.32,Chronic obstructive pulmonary disease,21.02,1693.5
+TTO,Trinidad and Tobago,Americas,70.32,Ischaemic heart disease,481.56,1693.5
+TTO,Trinidad and Tobago,Americas,70.32,Lower respiratory infections,44.55,1693.5
+TTO,Trinidad and Tobago,Americas,70.32,Stroke,142.68,1693.5
+TTO,Trinidad and Tobago,Americas,70.32,"Trachea, bronchus, lung cancers",19.45,1693.5
+TUN,Tunisia,Eastern Mediterranean,101.09,Chronic obstructive pulmonary disease,569.3,3601.4
+TUN,Tunisia,Eastern Mediterranean,101.09,Ischaemic heart disease,9362,3601.4
+TUN,Tunisia,Eastern Mediterranean,101.09,Lower respiratory infections,851.5,3601.4
+TUN,Tunisia,Eastern Mediterranean,101.09,Stroke,2547.7,3601.4
+TUN,Tunisia,Eastern Mediterranean,101.09,"Trachea, bronchus, lung cancers",429.81,3601.4
+TUR,Türkiye,Europe,111.82,Chronic obstructive pulmonary disease,7594,2598
+TUR,Türkiye,Europe,111.82,Ischaemic heart disease,37744,2598
+TUR,Türkiye,Europe,111.82,Lower respiratory infections,5440,2598
+TUR,Türkiye,Europe,111.82,Stroke,12454,2598
+TUR,Türkiye,Europe,111.82,"Trachea, bronchus, lung cancers",7395.8,2598
+TZA,United Republic of Tanzania,Africa,78.81,Chronic obstructive pulmonary disease,665.4,1647.1
+TZA,United Republic of Tanzania,Africa,78.81,Ischaemic heart disease,4906.3,1647.1
+TZA,United Republic of Tanzania,Africa,78.81,Lower respiratory infections,6766,1647.1
+TZA,United Republic of Tanzania,Africa,78.81,Stroke,3647.7,1647.1
+TZA,United Republic of Tanzania,Africa,78.81,"Trachea, bronchus, lung cancers",21.78,1647.1
+UGA,Uganda,Africa,130.45,Chronic obstructive pulmonary disease,1066.3,2418.6
+UGA,Uganda,Africa,130.45,Ischaemic heart disease,4093.9,2418.6
+UGA,Uganda,Africa,130.45,Lower respiratory infections,8077,2418.6
+UGA,Uganda,Africa,130.45,Stroke,3495.7,2418.6
+UGA,Uganda,Africa,130.45,"Trachea, bronchus, lung cancers",116.78,2418.6
+UKR,Ukraine,Europe,41.620000000000005,Chronic obstructive pulmonary disease,1922.4,7440
+UKR,Ukraine,Europe,41.620000000000005,Ischaemic heart disease,98630,7440
+UKR,Ukraine,Europe,41.620000000000005,Lower respiratory infections,1868.2,7440
+UKR,Ukraine,Europe,41.620000000000005,Stroke,16160,7440
+UKR,Ukraine,Europe,41.620000000000005,"Trachea, bronchus, lung cancers",1825.4,7440
+URY,Uruguay,Americas,29.54,Chronic obstructive pulmonary disease,227.35,1638
+URY,Uruguay,Americas,29.54,Ischaemic heart disease,1244.8,1638
+URY,Uruguay,Americas,29.54,Lower respiratory infections,238.2,1638
+URY,Uruguay,Americas,29.54,Stroke,420.4,1638
+URY,Uruguay,Americas,29.54,"Trachea, bronchus, lung cancers",98.52,1638
+USA,United States of America,Americas,21.46,Chronic obstructive pulmonary disease,21102,1591.7
+USA,United States of America,Americas,21.46,Ischaemic heart disease,130728,1591.7
+USA,United States of America,Americas,21.46,Lower respiratory infections,8328,1591.7
+USA,United States of America,Americas,21.46,Stroke,19706,1591.7
+USA,United States of America,Americas,21.46,"Trachea, bronchus, lung cancers",7884,1591.7
+UZB,Uzbekistan,Europe,86.13,Chronic obstructive pulmonary disease,825.6,5194
+UZB,Uzbekistan,Europe,86.13,Ischaemic heart disease,35386,5194
+UZB,Uzbekistan,Europe,86.13,Lower respiratory infections,2600.4,5194
+UZB,Uzbekistan,Europe,86.13,Stroke,7814,5194
+UZB,Uzbekistan,Europe,86.13,"Trachea, bronchus, lung cancers",657.8199999999999,5194
+VCT,Saint Vincent and the Grenadines,Americas,66.18,Chronic obstructive pulmonary disease,3.64,1829.3
+VCT,Saint Vincent and the Grenadines,Americas,66.18,Ischaemic heart disease,43.14,1829.3
+VCT,Saint Vincent and the Grenadines,Americas,66.18,Lower respiratory infections,7.64,1829.3
+VCT,Saint Vincent and the Grenadines,Americas,66.18,Stroke,16.67,1829.3
+VCT,Saint Vincent and the Grenadines,Americas,66.18,"Trachea, bronchus, lung cancers",0.64,1829.3
+VEN,Venezuela (Bolivarian Republic of),Americas,60.81,Chronic obstructive pulmonary disease,1203.9,1906.8
+VEN,Venezuela (Bolivarian Republic of),Americas,60.81,Ischaemic heart disease,10370,1906.8
+VEN,Venezuela (Bolivarian Republic of),Americas,60.81,Lower respiratory infections,2272,1906.8
+VEN,Venezuela (Bolivarian Republic of),Americas,60.81,Stroke,2786.1,1906.8
+VEN,Venezuela (Bolivarian Republic of),Americas,60.81,"Trachea, bronchus, lung cancers",579.2,1906.8
+VNM,Viet Nam,Western Pacific,64.81,Chronic obstructive pulmonary disease,9986,3308.7
+VNM,Viet Nam,Western Pacific,64.81,Ischaemic heart disease,38516,3308.7
+VNM,Viet Nam,Western Pacific,64.81,Lower respiratory infections,10664,3308.7
+VNM,Viet Nam,Western Pacific,64.81,Stroke,41938,3308.7
+VNM,Viet Nam,Western Pacific,64.81,"Trachea, bronchus, lung cancers",4029.8,3308.7
+VUT,Vanuatu,Western Pacific,31.9,Chronic obstructive pulmonary disease,12.58,2820.1
+VUT,Vanuatu,Western Pacific,31.9,Ischaemic heart disease,111.76,2820.1
+VUT,Vanuatu,Western Pacific,31.9,Lower respiratory infections,18.29,2820.1
+VUT,Vanuatu,Western Pacific,31.9,Stroke,35.6,2820.1
+VUT,Vanuatu,Western Pacific,31.9,"Trachea, bronchus, lung cancers",0.943,2820.1
+WSM,Samoa,Western Pacific,32.4,Chronic obstructive pulmonary disease,5.92,1798
+WSM,Samoa,Western Pacific,32.4,Ischaemic heart disease,54.86,1798
+WSM,Samoa,Western Pacific,32.4,Lower respiratory infections,7.24,1798
+WSM,Samoa,Western Pacific,32.4,Stroke,16.75,1798
+WSM,Samoa,Western Pacific,32.4,"Trachea, bronchus, lung cancers",1.46,1798
+YEM,Yemen,Eastern Mediterranean,123.84,Chronic obstructive pulmonary disease,1255.6999999999998,4935
+YEM,Yemen,Eastern Mediterranean,123.84,Ischaemic heart disease,15036,4935
+YEM,Yemen,Eastern Mediterranean,123.84,Lower respiratory infections,5554,4935
+YEM,Yemen,Eastern Mediterranean,123.84,Stroke,4656,4935
+YEM,Yemen,Eastern Mediterranean,123.84,"Trachea, bronchus, lung cancers",181.03,4935
+ZAF,South Africa,Africa,76.81,Chronic obstructive pulmonary disease,3133.6,3450.1
+ZAF,South Africa,Africa,76.81,Ischaemic heart disease,13257,3450.1
+ZAF,South Africa,Africa,76.81,Lower respiratory infections,14204,3450.1
+ZAF,South Africa,Africa,76.81,Stroke,7690,3450.1
+ZAF,South Africa,Africa,76.81,"Trachea, bronchus, lung cancers",1369.8,3450.1
+ZMB,Zambia,Africa,91.66,Chronic obstructive pulmonary disease,291.57,2222.3
+ZMB,Zambia,Africa,91.66,Ischaemic heart disease,1670.2,2222.3
+ZMB,Zambia,Africa,91.66,Lower respiratory infections,2592.5,2222.3
+ZMB,Zambia,Africa,91.66,Stroke,1794.2,2222.3
+ZMB,Zambia,Africa,91.66,"Trachea, bronchus, lung cancers",34.08,2222.3
+ZWE,Zimbabwe,Africa,75.19,Chronic obstructive pulmonary disease,222.24,2217.5
+ZWE,Zimbabwe,Africa,75.19,Ischaemic heart disease,2956,2217.5
+ZWE,Zimbabwe,Africa,75.19,Lower respiratory infections,2604.3,2217.5
+ZWE,Zimbabwe,Africa,75.19,Stroke,989.1,2217.5
+ZWE,Zimbabwe,Africa,75.19,"Trachea, bronchus, lung cancers",33.24,2217.5
